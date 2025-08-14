@@ -1,0 +1,1201 @@
+transaction_id,customer_id,transaction_date,amount,items
+TX_00001,CUST_103,2024-12-14,78.35,"Product_15, Product_16, Product_27"
+TX_00002,CUST_188,2024-09-27,380.13,"Product_17, Product_6, Product_11"
+TX_00003,CUST_134,2024-02-23,388.4,"Product_28, Product_23"
+TX_00004,CUST_136,2024-03-03,359.49,"Product_16, Product_4, Product_11"
+TX_00005,CUST_001,2024-01-05,437.02,"Product_8, Product_30"
+TX_00006,CUST_028,2024-04-17,486.17,"Product_14, Product_2, Product_21, Product_4"
+TX_00007,CUST_052,2024-09-24,272.53,"Product_9, Product_30"
+TX_00008,CUST_144,2024-04-06,95.73,Product_12
+TX_00009,CUST_112,2024-02-29,59.72,Product_22
+TX_00010,CUST_099,2024-06-01,319.26,"Product_10, Product_17, Product_27, Product_23, Product_5"
+TX_00011,CUST_021,2024-10-12,165.29,Product_2
+TX_00012,CUST_128,2024-01-18,317.67,Product_13
+TX_00013,CUST_020,2024-11-16,352.76,"Product_3, Product_14, Product_26, Product_21"
+TX_00014,CUST_168,2024-11-03,287.36,"Product_25, Product_16, Product_4, Product_3, Product_13"
+TX_00015,CUST_179,2024-03-26,467.38,Product_19
+TX_00016,CUST_096,2024-09-13,59.38,"Product_6, Product_7, Product_26, Product_9, Product_29"
+TX_00017,CUST_130,2024-09-09,72.57,"Product_24, Product_14, Product_20"
+TX_00018,CUST_096,2024-05-31,339.53,"Product_11, Product_10, Product_1, Product_8, Product_6"
+TX_00019,CUST_053,2024-05-30,261.53,Product_23
+TX_00020,CUST_166,2024-12-04,481.46,"Product_11, Product_28, Product_9, Product_24, Product_21"
+TX_00021,CUST_191,2024-11-07,38.35,Product_27
+TX_00022,CUST_102,2024-06-04,280.28,"Product_25, Product_10, Product_19, Product_21, Product_16"
+TX_00023,CUST_005,2024-04-28,426.33,Product_24
+TX_00024,CUST_145,2024-03-25,114.35,Product_23
+TX_00025,CUST_166,2024-07-10,171.09,"Product_3, Product_7, Product_9, Product_21"
+TX_00026,CUST_043,2024-08-27,53.46,"Product_9, Product_7, Product_1"
+TX_00027,CUST_001,2024-05-12,75.23,Product_25
+TX_00028,CUST_003,2024-04-20,296.26,"Product_16, Product_8, Product_27"
+TX_00029,CUST_034,2024-04-20,204.95,Product_29
+TX_00030,CUST_075,2024-01-04,257.99,Product_20
+TX_00031,CUST_100,2024-11-28,482.86,"Product_16, Product_22, Product_17"
+TX_00032,CUST_078,2024-05-16,376.33,"Product_17, Product_30"
+TX_00033,CUST_143,2024-06-01,391.5,Product_27
+TX_00034,CUST_033,2024-09-10,98.98,"Product_7, Product_23, Product_25, Product_16"
+TX_00035,CUST_074,2024-12-25,61.08,"Product_20, Product_24"
+TX_00036,CUST_041,2024-08-01,179.71,"Product_11, Product_6, Product_20"
+TX_00037,CUST_162,2024-12-12,42.87,Product_8
+TX_00038,CUST_179,2024-07-29,402.37,"Product_29, Product_5, Product_23, Product_20, Product_9"
+TX_00039,CUST_055,2024-10-14,370.59,"Product_9, Product_18"
+TX_00040,CUST_085,2024-05-26,287.23,"Product_17, Product_7, Product_25, Product_22, Product_8"
+TX_00041,CUST_059,2024-08-02,416.57,Product_3
+TX_00042,CUST_087,2024-04-26,151.46,"Product_28, Product_11"
+TX_00043,CUST_164,2024-04-22,347.32,"Product_10, Product_17, Product_16"
+TX_00044,CUST_042,2024-01-25,132.34,"Product_24, Product_16, Product_4"
+TX_00045,CUST_089,2024-09-24,328.58,"Product_24, Product_1, Product_5"
+TX_00046,CUST_152,2024-04-17,198.14,"Product_14, Product_18, Product_20, Product_27"
+TX_00047,CUST_096,2024-08-14,343.03,"Product_26, Product_11, Product_6"
+TX_00048,CUST_140,2024-07-05,38.34,"Product_16, Product_23"
+TX_00049,CUST_047,2024-08-02,478.27,Product_25
+TX_00050,CUST_076,2024-06-18,334.43,Product_26
+TX_00051,CUST_040,2024-12-12,374.32,"Product_17, Product_23, Product_27, Product_22, Product_18"
+TX_00052,CUST_159,2024-03-22,157.47,"Product_1, Product_23, Product_27, Product_19"
+TX_00053,CUST_017,2024-01-12,231.18,Product_5
+TX_00054,CUST_039,2024-09-27,114.42,"Product_7, Product_10, Product_8, Product_13, Product_25"
+TX_00055,CUST_064,2024-10-07,120.51,"Product_11, Product_9, Product_20, Product_2"
+TX_00056,CUST_188,2024-11-14,79.82,"Product_7, Product_29, Product_4, Product_5, Product_12"
+TX_00057,CUST_080,2024-11-05,301.44,"Product_21, Product_12, Product_27, Product_15"
+TX_00058,CUST_073,2024-12-24,488.17,Product_27
+TX_00059,CUST_100,2024-06-21,257.37,"Product_11, Product_17, Product_2, Product_26, Product_14"
+TX_00060,CUST_050,2024-06-25,98.68,"Product_11, Product_18, Product_17"
+TX_00061,CUST_069,2024-02-10,172.14,"Product_28, Product_10, Product_16, Product_21"
+TX_00062,CUST_093,2024-09-22,35.33,"Product_29, Product_7, Product_18, Product_3"
+TX_00063,CUST_001,2024-04-28,369.12,"Product_25, Product_3, Product_20"
+TX_00064,CUST_008,2024-12-06,415.15,Product_27
+TX_00065,CUST_048,2024-03-09,410.74,Product_7
+TX_00066,CUST_088,2024-11-05,177.21,Product_4
+TX_00067,CUST_012,2024-05-12,91.5,"Product_1, Product_8"
+TX_00068,CUST_196,2024-02-21,409.72,"Product_27, Product_9, Product_6"
+TX_00069,CUST_172,2024-06-21,315.69,"Product_24, Product_6"
+TX_00070,CUST_183,2024-08-29,361.62,"Product_8, Product_25, Product_4, Product_6, Product_19"
+TX_00071,CUST_024,2024-07-06,274.61,"Product_12, Product_24, Product_18"
+TX_00072,CUST_200,2024-02-19,412.69,"Product_18, Product_28, Product_11"
+TX_00073,CUST_012,2024-05-24,27.72,"Product_28, Product_27, Product_11, Product_10"
+TX_00074,CUST_151,2024-04-23,270.92,"Product_26, Product_15, Product_7, Product_17, Product_13"
+TX_00075,CUST_134,2024-03-07,43.4,"Product_7, Product_17, Product_16, Product_5"
+TX_00076,CUST_196,2024-01-25,59.51,"Product_4, Product_23, Product_29, Product_16"
+TX_00077,CUST_080,2024-09-08,75.56,Product_1
+TX_00078,CUST_149,2024-09-02,129.3,"Product_12, Product_17, Product_9, Product_6, Product_2"
+TX_00079,CUST_082,2024-08-19,321.97,"Product_14, Product_18, Product_27"
+TX_00080,CUST_079,2024-12-08,279.31,"Product_6, Product_20, Product_2, Product_14, Product_30"
+TX_00081,CUST_096,2024-01-08,460.95,"Product_11, Product_30"
+TX_00082,CUST_144,2024-10-14,489.41,"Product_13, Product_27, Product_6, Product_19"
+TX_00083,CUST_046,2024-12-25,222.56,"Product_9, Product_26, Product_17, Product_14"
+TX_00084,CUST_136,2024-12-27,418.01,"Product_24, Product_21"
+TX_00085,CUST_014,2024-04-30,98.85,"Product_1, Product_14"
+TX_00086,CUST_173,2024-01-20,370.4,Product_11
+TX_00087,CUST_146,2024-11-14,353.12,"Product_23, Product_8, Product_3, Product_14"
+TX_00088,CUST_094,2024-09-10,385.1,"Product_12, Product_8, Product_25, Product_11, Product_1"
+TX_00089,CUST_182,2024-06-22,270.89,"Product_5, Product_27, Product_1, Product_11"
+TX_00090,CUST_161,2024-01-07,84.11,"Product_2, Product_9"
+TX_00091,CUST_196,2024-11-22,152.39,Product_4
+TX_00092,CUST_168,2024-10-20,253.93,"Product_5, Product_13, Product_16, Product_26"
+TX_00093,CUST_006,2024-06-15,145.68,"Product_22, Product_13, Product_15, Product_1"
+TX_00094,CUST_040,2024-08-07,284.28,Product_17
+TX_00095,CUST_097,2024-07-14,414.73,Product_22
+TX_00096,CUST_190,2024-06-11,45.61,"Product_10, Product_24, Product_20, Product_7"
+TX_00097,CUST_128,2024-07-09,195.96,"Product_19, Product_18, Product_11"
+TX_00098,CUST_142,2024-04-09,32.6,"Product_25, Product_2, Product_22, Product_1, Product_5"
+TX_00099,CUST_161,2024-11-03,66.32,Product_6
+TX_00100,CUST_189,2024-11-19,74.53,"Product_29, Product_11, Product_7"
+TX_00101,CUST_004,2024-03-16,229.26,"Product_4, Product_14, Product_25, Product_16, Product_15"
+TX_00102,CUST_084,2024-11-07,24.54,Product_2
+TX_00103,CUST_192,2024-09-23,305.86,"Product_2, Product_9, Product_4"
+TX_00104,CUST_082,2024-05-25,322.56,"Product_26, Product_14"
+TX_00105,CUST_117,2024-01-02,144.94,"Product_21, Product_18, Product_23, Product_26, Product_22"
+TX_00106,CUST_181,2024-05-01,195.67,"Product_6, Product_10, Product_20, Product_14"
+TX_00107,CUST_163,2024-05-05,203.76,"Product_23, Product_22, Product_15"
+TX_00108,CUST_006,2024-11-10,130.98,"Product_22, Product_24, Product_14, Product_2, Product_8"
+TX_00109,CUST_087,2024-02-11,108.64,"Product_9, Product_5"
+TX_00110,CUST_085,2024-01-08,158.2,"Product_18, Product_24, Product_20, Product_16"
+TX_00111,CUST_102,2024-03-15,229.68,Product_10
+TX_00112,CUST_013,2024-07-07,372.83,"Product_27, Product_5"
+TX_00113,CUST_037,2024-05-20,81.15,"Product_22, Product_10, Product_18, Product_5, Product_7"
+TX_00114,CUST_013,2024-07-02,322.17,"Product_20, Product_10, Product_4, Product_11"
+TX_00115,CUST_114,2024-01-14,448.91,"Product_10, Product_3"
+TX_00116,CUST_088,2024-11-01,286.67,Product_10
+TX_00117,CUST_060,2024-08-04,112.35,"Product_8, Product_2"
+TX_00118,CUST_105,2024-01-13,293.8,"Product_30, Product_15"
+TX_00119,CUST_021,2024-09-08,14.86,"Product_27, Product_7, Product_19"
+TX_00120,CUST_171,2024-08-15,326.76,"Product_14, Product_29"
+TX_00121,CUST_135,2024-08-15,285.03,"Product_6, Product_18, Product_19"
+TX_00122,CUST_022,2024-08-20,348.1,Product_2
+TX_00123,CUST_026,2024-08-28,490.78,"Product_12, Product_27"
+TX_00124,CUST_077,2024-02-19,161.9,"Product_10, Product_14, Product_23"
+TX_00125,CUST_094,2024-11-16,245.64,"Product_21, Product_25, Product_1"
+TX_00126,CUST_141,2024-06-21,439.9,"Product_8, Product_6"
+TX_00127,CUST_148,2024-04-25,413.35,"Product_7, Product_20"
+TX_00128,CUST_084,2024-08-29,274.16,"Product_6, Product_17, Product_24, Product_23"
+TX_00129,CUST_116,2024-10-05,449.06,"Product_29, Product_28, Product_2, Product_26, Product_11"
+TX_00130,CUST_101,2024-01-25,381.91,"Product_29, Product_5, Product_23"
+TX_00131,CUST_102,2024-08-28,68.25,Product_12
+TX_00132,CUST_049,2024-03-16,257.35,"Product_13, Product_5, Product_9, Product_20, Product_25"
+TX_00133,CUST_027,2024-12-01,150.94,"Product_15, Product_24, Product_18, Product_1, Product_6"
+TX_00134,CUST_075,2024-10-09,59.67,"Product_21, Product_12, Product_30, Product_11"
+TX_00135,CUST_029,2024-10-06,484.58,"Product_27, Product_13"
+TX_00136,CUST_171,2024-10-21,95.3,"Product_5, Product_8, Product_17"
+TX_00137,CUST_083,2024-06-02,339.51,Product_6
+TX_00138,CUST_176,2024-06-14,47.8,Product_25
+TX_00139,CUST_034,2024-10-22,296.38,"Product_5, Product_17, Product_20"
+TX_00140,CUST_089,2024-10-21,464.28,Product_29
+TX_00141,CUST_129,2024-11-06,134.89,"Product_19, Product_9, Product_2"
+TX_00142,CUST_061,2024-11-14,178.94,"Product_22, Product_8"
+TX_00143,CUST_195,2024-11-08,113.83,Product_24
+TX_00144,CUST_011,2024-07-24,67.43,"Product_7, Product_16, Product_17"
+TX_00145,CUST_157,2024-10-21,423.23,"Product_14, Product_2"
+TX_00146,CUST_108,2024-04-27,193.98,Product_22
+TX_00147,CUST_045,2024-11-30,403.47,"Product_25, Product_5, Product_28, Product_7"
+TX_00148,CUST_058,2024-07-27,454.84,"Product_26, Product_22, Product_20"
+TX_00149,CUST_044,2024-07-25,101.98,Product_9
+TX_00150,CUST_084,2024-12-22,292.58,"Product_20, Product_26, Product_24, Product_4"
+TX_00151,CUST_038,2024-06-24,260.7,"Product_29, Product_4, Product_26"
+TX_00152,CUST_186,2024-12-20,360.4,"Product_9, Product_8, Product_1"
+TX_00153,CUST_153,2024-01-14,474.88,"Product_19, Product_8, Product_17"
+TX_00154,CUST_178,2024-04-21,458.68,Product_16
+TX_00155,CUST_084,2024-04-25,159.97,"Product_6, Product_23, Product_2"
+TX_00156,CUST_011,2024-04-07,40.66,"Product_14, Product_19"
+TX_00157,CUST_101,2024-10-08,215.12,"Product_4, Product_20, Product_19, Product_13"
+TX_00158,CUST_009,2024-10-04,187.09,"Product_27, Product_14, Product_3, Product_20, Product_6"
+TX_00159,CUST_048,2024-01-18,452.56,"Product_10, Product_15, Product_2, Product_1"
+TX_00160,CUST_096,2024-07-18,154.04,Product_16
+TX_00161,CUST_072,2024-08-06,239.48,"Product_12, Product_6, Product_9, Product_4, Product_3"
+TX_00162,CUST_108,2024-02-22,37.21,"Product_5, Product_7, Product_19, Product_27"
+TX_00163,CUST_103,2024-06-19,342.46,Product_16
+TX_00164,CUST_028,2024-02-07,90.79,"Product_7, Product_27, Product_5, Product_6, Product_30"
+TX_00165,CUST_111,2024-07-02,448.83,"Product_12, Product_16, Product_7, Product_27"
+TX_00166,CUST_132,2024-03-27,294.89,Product_7
+TX_00167,CUST_149,2024-08-14,396.85,"Product_16, Product_12, Product_7"
+TX_00168,CUST_200,2024-08-07,35.38,"Product_28, Product_14"
+TX_00169,CUST_090,2024-05-20,162.78,Product_4
+TX_00170,CUST_134,2024-07-16,135.11,"Product_22, Product_9, Product_6"
+TX_00171,CUST_065,2024-12-20,237.66,"Product_11, Product_18, Product_9, Product_27"
+TX_00172,CUST_103,2024-05-04,443.33,Product_15
+TX_00173,CUST_191,2024-11-18,444.69,"Product_26, Product_22"
+TX_00174,CUST_069,2024-02-16,464.19,"Product_12, Product_7, Product_8, Product_30"
+TX_00175,CUST_075,2024-09-28,90.03,Product_28
+TX_00176,CUST_063,2024-09-09,456.29,Product_6
+TX_00177,CUST_029,2024-05-27,339.47,Product_8
+TX_00178,CUST_185,2024-05-27,211.48,Product_6
+TX_00179,CUST_130,2024-07-12,489.78,"Product_10, Product_13, Product_9, Product_3"
+TX_00180,CUST_171,2024-11-26,65.59,"Product_28, Product_7, Product_21, Product_4, Product_15"
+TX_00181,CUST_080,2024-06-10,255.14,"Product_19, Product_21"
+TX_00182,CUST_138,2024-04-19,334.3,"Product_10, Product_19, Product_15, Product_11, Product_30"
+TX_00183,CUST_104,2024-08-30,55.13,"Product_6, Product_20, Product_21, Product_24"
+TX_00184,CUST_032,2024-09-07,207.32,"Product_26, Product_28, Product_17, Product_14"
+TX_00185,CUST_157,2024-12-05,120.76,"Product_18, Product_28, Product_14, Product_2, Product_10"
+TX_00186,CUST_200,2024-10-24,85.42,"Product_21, Product_5"
+TX_00187,CUST_099,2024-08-19,232.55,"Product_2, Product_28, Product_1"
+TX_00188,CUST_011,2024-12-13,408.72,Product_24
+TX_00189,CUST_007,2024-10-04,67.07,Product_23
+TX_00190,CUST_152,2024-10-18,105.65,"Product_22, Product_1"
+TX_00191,CUST_001,2024-12-11,225.53,"Product_26, Product_17"
+TX_00192,CUST_180,2024-06-20,90.67,"Product_14, Product_22"
+TX_00193,CUST_179,2024-04-28,22.65,Product_14
+TX_00194,CUST_136,2024-12-08,264.1,"Product_18, Product_30, Product_26, Product_22, Product_25"
+TX_00195,CUST_169,2024-10-05,34.98,"Product_17, Product_23, Product_22"
+TX_00196,CUST_082,2024-12-03,215.81,"Product_21, Product_4"
+TX_00197,CUST_187,2024-10-15,184.17,"Product_29, Product_10, Product_4"
+TX_00198,CUST_064,2024-12-08,225.86,"Product_27, Product_17, Product_14"
+TX_00199,CUST_148,2024-04-10,265.47,"Product_12, Product_19, Product_29, Product_4, Product_23"
+TX_00200,CUST_190,2024-01-01,43.01,"Product_15, Product_4, Product_20, Product_27"
+TX_00201,CUST_105,2024-02-17,466.55,"Product_6, Product_17, Product_19"
+TX_00202,CUST_170,2024-04-18,403.84,"Product_1, Product_22"
+TX_00203,CUST_085,2024-05-30,13.34,"Product_30, Product_1, Product_9, Product_8, Product_27"
+TX_00204,CUST_126,2024-11-13,394.69,Product_18
+TX_00205,CUST_036,2024-01-06,373.57,"Product_21, Product_22"
+TX_00206,CUST_056,2024-07-14,421.04,"Product_21, Product_17, Product_14"
+TX_00207,CUST_191,2024-09-09,37.52,"Product_10, Product_12, Product_26, Product_1, Product_30"
+TX_00208,CUST_079,2024-08-23,497.91,Product_20
+TX_00209,CUST_069,2024-03-09,374.57,"Product_17, Product_21, Product_3, Product_13"
+TX_00210,CUST_161,2024-10-10,494.53,"Product_15, Product_30"
+TX_00211,CUST_146,2024-04-15,194.66,"Product_5, Product_2"
+TX_00212,CUST_022,2024-07-30,94.22,"Product_28, Product_21, Product_13, Product_30, Product_25"
+TX_00213,CUST_129,2024-08-06,372.34,"Product_14, Product_30, Product_20, Product_6, Product_23"
+TX_00214,CUST_084,2024-05-08,318.0,"Product_16, Product_28, Product_3, Product_8, Product_17"
+TX_00215,CUST_157,2024-02-03,187.63,Product_12
+TX_00216,CUST_155,2024-10-10,70.39,Product_3
+TX_00217,CUST_137,2024-11-19,36.71,Product_26
+TX_00218,CUST_079,2024-06-03,315.37,"Product_30, Product_6, Product_7, Product_4"
+TX_00219,CUST_046,2024-12-21,479.0,"Product_20, Product_2, Product_12, Product_27, Product_15"
+TX_00220,CUST_142,2024-04-17,487.95,Product_11
+TX_00221,CUST_016,2024-12-04,396.62,"Product_28, Product_9"
+TX_00222,CUST_009,2024-09-27,95.55,"Product_4, Product_23, Product_5"
+TX_00223,CUST_098,2024-04-15,223.76,"Product_3, Product_7, Product_1, Product_29, Product_30"
+TX_00224,CUST_014,2024-08-27,98.0,"Product_13, Product_5"
+TX_00225,CUST_057,2024-02-08,29.56,Product_29
+TX_00226,CUST_035,2024-09-02,463.07,"Product_30, Product_16"
+TX_00227,CUST_053,2024-01-18,273.3,Product_17
+TX_00228,CUST_074,2024-11-03,110.94,"Product_17, Product_2, Product_20, Product_29, Product_19"
+TX_00229,CUST_123,2024-05-23,58.62,"Product_15, Product_11, Product_13, Product_20, Product_7"
+TX_00230,CUST_166,2024-11-19,426.75,"Product_17, Product_28, Product_30, Product_3, Product_18"
+TX_00231,CUST_171,2024-03-03,399.87,Product_26
+TX_00232,CUST_132,2024-02-28,219.16,Product_21
+TX_00233,CUST_076,2024-11-06,46.9,"Product_6, Product_28, Product_1, Product_7, Product_8"
+TX_00234,CUST_034,2024-07-12,23.28,"Product_3, Product_11, Product_20, Product_16, Product_4"
+TX_00235,CUST_050,2024-06-09,412.09,"Product_23, Product_15, Product_25, Product_20, Product_18"
+TX_00236,CUST_040,2024-11-18,21.78,Product_5
+TX_00237,CUST_002,2024-03-03,309.56,"Product_10, Product_11, Product_1, Product_25"
+TX_00238,CUST_017,2024-10-12,437.53,"Product_5, Product_24, Product_21"
+TX_00239,CUST_082,2024-03-12,376.18,"Product_11, Product_10"
+TX_00240,CUST_095,2024-05-19,146.35,"Product_13, Product_23"
+TX_00241,CUST_162,2024-02-13,189.67,"Product_11, Product_9"
+TX_00242,CUST_024,2024-01-04,120.66,"Product_10, Product_26, Product_24"
+TX_00243,CUST_092,2024-06-19,293.86,"Product_4, Product_2, Product_27"
+TX_00244,CUST_071,2024-04-26,65.84,"Product_15, Product_26"
+TX_00245,CUST_113,2024-12-14,140.9,"Product_9, Product_8, Product_30, Product_29, Product_14"
+TX_00246,CUST_069,2024-04-01,499.12,"Product_18, Product_1, Product_25, Product_8, Product_19"
+TX_00247,CUST_155,2024-01-21,162.71,"Product_21, Product_22"
+TX_00248,CUST_085,2024-02-18,77.24,Product_11
+TX_00249,CUST_139,2024-09-20,63.65,Product_29
+TX_00250,CUST_159,2024-01-14,171.0,"Product_21, Product_27, Product_18, Product_16, Product_6"
+TX_00251,CUST_006,2024-05-04,113.74,"Product_8, Product_22"
+TX_00252,CUST_035,2024-01-24,133.64,"Product_14, Product_6, Product_13, Product_12"
+TX_00253,CUST_003,2024-07-22,231.66,Product_27
+TX_00254,CUST_109,2024-12-22,90.17,"Product_14, Product_11, Product_19, Product_17, Product_25"
+TX_00255,CUST_176,2024-08-25,127.27,"Product_6, Product_10, Product_17"
+TX_00256,CUST_177,2024-04-09,499.68,"Product_1, Product_21"
+TX_00257,CUST_196,2024-12-18,91.6,"Product_4, Product_23, Product_18, Product_7"
+TX_00258,CUST_044,2024-06-11,409.87,Product_4
+TX_00259,CUST_053,2024-07-16,209.32,"Product_9, Product_15, Product_13"
+TX_00260,CUST_128,2024-11-23,24.29,"Product_4, Product_14, Product_3"
+TX_00261,CUST_107,2024-10-05,130.45,Product_12
+TX_00262,CUST_070,2024-05-29,23.83,"Product_29, Product_1"
+TX_00263,CUST_187,2024-11-21,211.45,Product_15
+TX_00264,CUST_042,2024-10-25,388.2,"Product_4, Product_22"
+TX_00265,CUST_100,2024-01-28,80.1,"Product_22, Product_10, Product_18, Product_4, Product_15"
+TX_00266,CUST_130,2024-04-14,296.62,"Product_8, Product_17, Product_19"
+TX_00267,CUST_103,2024-07-23,396.57,Product_27
+TX_00268,CUST_036,2024-11-14,400.46,"Product_8, Product_27, Product_6, Product_21, Product_12"
+TX_00269,CUST_184,2024-03-17,113.13,"Product_27, Product_13"
+TX_00270,CUST_007,2024-09-28,110.44,"Product_27, Product_7, Product_10"
+TX_00271,CUST_175,2024-08-24,268.75,"Product_18, Product_20"
+TX_00272,CUST_158,2024-02-22,240.95,"Product_8, Product_1, Product_27, Product_25"
+TX_00273,CUST_194,2024-05-02,85.85,"Product_13, Product_1, Product_27, Product_4, Product_6"
+TX_00274,CUST_050,2024-05-30,112.96,"Product_7, Product_15, Product_20, Product_10, Product_27"
+TX_00275,CUST_135,2024-08-09,138.71,"Product_16, Product_13, Product_29, Product_10"
+TX_00276,CUST_116,2024-04-02,69.47,"Product_11, Product_15"
+TX_00277,CUST_132,2024-12-29,15.17,Product_29
+TX_00278,CUST_078,2024-04-17,181.5,Product_29
+TX_00279,CUST_111,2024-09-14,374.85,"Product_16, Product_19, Product_7, Product_9, Product_28"
+TX_00280,CUST_199,2024-11-05,338.66,"Product_17, Product_9, Product_20, Product_10"
+TX_00281,CUST_009,2024-10-15,259.27,"Product_22, Product_24, Product_4, Product_2"
+TX_00282,CUST_056,2024-12-25,460.62,Product_5
+TX_00283,CUST_077,2024-10-18,326.34,Product_26
+TX_00284,CUST_047,2024-11-22,445.41,"Product_29, Product_4, Product_9"
+TX_00285,CUST_136,2024-06-14,199.75,"Product_22, Product_11, Product_5, Product_8, Product_1"
+TX_00286,CUST_089,2024-04-05,305.92,"Product_27, Product_15"
+TX_00287,CUST_199,2024-04-22,67.36,Product_5
+TX_00288,CUST_182,2024-07-22,81.16,"Product_2, Product_22, Product_28, Product_9, Product_5"
+TX_00289,CUST_093,2024-04-03,398.34,Product_18
+TX_00290,CUST_016,2024-03-17,141.61,"Product_23, Product_24, Product_10, Product_22, Product_1"
+TX_00291,CUST_199,2024-06-01,85.87,Product_12
+TX_00292,CUST_164,2024-01-06,255.89,"Product_6, Product_29, Product_27, Product_24"
+TX_00293,CUST_150,2024-02-15,67.21,Product_10
+TX_00294,CUST_107,2024-12-21,179.37,"Product_19, Product_7, Product_28, Product_24"
+TX_00295,CUST_039,2024-05-18,224.63,"Product_12, Product_5, Product_21, Product_28"
+TX_00296,CUST_105,2024-03-28,130.71,"Product_12, Product_3"
+TX_00297,CUST_024,2024-12-16,403.57,"Product_26, Product_8, Product_12, Product_15, Product_20"
+TX_00298,CUST_032,2024-01-26,16.16,"Product_12, Product_22, Product_13"
+TX_00299,CUST_134,2024-07-29,93.83,"Product_20, Product_6, Product_26, Product_18, Product_3"
+TX_00300,CUST_028,2024-02-04,88.28,Product_16
+TX_00301,CUST_070,2024-10-19,438.63,"Product_19, Product_27"
+TX_00302,CUST_105,2024-02-03,222.29,"Product_8, Product_25, Product_30, Product_9"
+TX_00303,CUST_031,2024-03-21,483.23,Product_28
+TX_00304,CUST_070,2024-08-29,51.85,"Product_7, Product_24"
+TX_00305,CUST_110,2024-04-24,158.65,"Product_25, Product_26"
+TX_00306,CUST_013,2024-08-04,466.55,"Product_11, Product_14"
+TX_00307,CUST_038,2024-02-14,427.23,Product_30
+TX_00308,CUST_190,2024-12-15,328.09,"Product_16, Product_2, Product_7, Product_1, Product_13"
+TX_00309,CUST_077,2024-10-30,242.15,"Product_12, Product_16"
+TX_00310,CUST_008,2024-08-31,195.71,"Product_25, Product_5, Product_22"
+TX_00311,CUST_052,2024-03-28,412.21,Product_23
+TX_00312,CUST_065,2024-08-06,448.15,Product_29
+TX_00313,CUST_038,2024-04-09,326.56,Product_20
+TX_00314,CUST_126,2024-11-01,99.63,Product_13
+TX_00315,CUST_072,2024-01-23,166.85,"Product_22, Product_5, Product_18, Product_3"
+TX_00316,CUST_175,2024-10-20,15.29,Product_18
+TX_00317,CUST_125,2024-04-01,74.96,"Product_4, Product_15, Product_3, Product_23, Product_14"
+TX_00318,CUST_064,2024-12-16,224.87,"Product_10, Product_17, Product_23, Product_16"
+TX_00319,CUST_123,2024-11-04,306.48,"Product_8, Product_30, Product_15"
+TX_00320,CUST_099,2024-01-27,382.55,Product_27
+TX_00321,CUST_180,2024-09-06,217.45,"Product_28, Product_3"
+TX_00322,CUST_161,2024-12-14,465.41,"Product_30, Product_19, Product_26, Product_12"
+TX_00323,CUST_139,2024-03-14,21.48,"Product_18, Product_3, Product_22"
+TX_00324,CUST_048,2024-07-20,448.94,"Product_11, Product_3"
+TX_00325,CUST_147,2024-11-11,330.9,"Product_16, Product_7, Product_20"
+TX_00326,CUST_065,2024-03-28,249.77,Product_8
+TX_00327,CUST_075,2024-08-14,245.27,Product_24
+TX_00328,CUST_166,2024-03-25,346.84,"Product_19, Product_26, Product_20, Product_1, Product_25"
+TX_00329,CUST_031,2024-10-15,96.1,"Product_25, Product_22, Product_26"
+TX_00330,CUST_145,2024-03-30,335.23,"Product_7, Product_2, Product_14, Product_6"
+TX_00331,CUST_184,2024-01-23,272.84,"Product_15, Product_27"
+TX_00332,CUST_041,2024-05-01,161.15,"Product_8, Product_2, Product_4"
+TX_00333,CUST_031,2024-04-21,143.14,Product_4
+TX_00334,CUST_096,2024-11-07,308.64,"Product_26, Product_27, Product_12, Product_3, Product_11"
+TX_00335,CUST_062,2024-10-13,105.92,"Product_11, Product_29, Product_4, Product_22"
+TX_00336,CUST_072,2024-10-24,258.87,"Product_23, Product_11, Product_21, Product_12, Product_18"
+TX_00337,CUST_086,2024-05-07,271.93,"Product_19, Product_26"
+TX_00338,CUST_045,2024-01-08,458.08,"Product_11, Product_4"
+TX_00339,CUST_125,2024-08-18,445.95,Product_10
+TX_00340,CUST_178,2024-01-29,45.39,"Product_8, Product_21, Product_15"
+TX_00341,CUST_123,2024-12-07,268.63,"Product_28, Product_24, Product_10"
+TX_00342,CUST_120,2024-06-02,135.76,"Product_9, Product_16"
+TX_00343,CUST_036,2024-10-25,26.38,Product_2
+TX_00344,CUST_060,2024-10-28,177.37,"Product_29, Product_15"
+TX_00345,CUST_095,2024-11-21,264.5,"Product_30, Product_25, Product_3, Product_6, Product_7"
+TX_00346,CUST_170,2024-11-12,224.3,Product_4
+TX_00347,CUST_138,2024-03-06,232.4,"Product_5, Product_2, Product_21, Product_29"
+TX_00348,CUST_077,2024-06-23,472.61,"Product_15, Product_4, Product_8, Product_25"
+TX_00349,CUST_061,2024-10-26,68.0,Product_29
+TX_00350,CUST_042,2024-08-20,470.69,"Product_27, Product_18, Product_3, Product_7"
+TX_00351,CUST_003,2024-07-12,491.51,"Product_30, Product_14, Product_27, Product_10, Product_8"
+TX_00352,CUST_143,2024-01-21,325.35,"Product_14, Product_4, Product_29, Product_22"
+TX_00353,CUST_102,2024-11-22,242.93,"Product_11, Product_16, Product_2, Product_9"
+TX_00354,CUST_151,2024-08-27,297.37,"Product_5, Product_1"
+TX_00355,CUST_024,2024-08-31,155.86,"Product_30, Product_27, Product_1, Product_14"
+TX_00356,CUST_008,2024-10-11,37.68,Product_6
+TX_00357,CUST_078,2024-09-16,39.15,Product_1
+TX_00358,CUST_108,2024-08-30,480.53,"Product_26, Product_19"
+TX_00359,CUST_012,2024-11-14,43.9,"Product_17, Product_18, Product_10, Product_27, Product_3"
+TX_00360,CUST_063,2024-03-27,166.89,Product_25
+TX_00361,CUST_003,2024-11-03,128.67,"Product_27, Product_9"
+TX_00362,CUST_144,2024-11-05,151.06,Product_8
+TX_00363,CUST_125,2024-08-21,187.96,"Product_14, Product_22, Product_9, Product_21, Product_13"
+TX_00364,CUST_183,2024-12-16,188.76,"Product_26, Product_13, Product_2"
+TX_00365,CUST_060,2024-11-21,464.01,Product_23
+TX_00366,CUST_157,2024-09-08,57.49,"Product_18, Product_28, Product_8, Product_23"
+TX_00367,CUST_032,2024-11-04,133.39,"Product_14, Product_12, Product_8"
+TX_00368,CUST_168,2024-05-14,97.86,Product_22
+TX_00369,CUST_009,2024-05-14,261.71,"Product_27, Product_9, Product_30"
+TX_00370,CUST_086,2024-02-16,113.35,"Product_27, Product_11, Product_5, Product_2, Product_8"
+TX_00371,CUST_181,2024-12-01,326.84,"Product_25, Product_16, Product_3, Product_26"
+TX_00372,CUST_142,2024-09-28,347.73,"Product_15, Product_13, Product_14"
+TX_00373,CUST_185,2024-07-25,41.62,"Product_28, Product_16"
+TX_00374,CUST_164,2024-12-23,444.98,"Product_30, Product_28, Product_15"
+TX_00375,CUST_008,2024-09-12,337.94,"Product_2, Product_17, Product_7"
+TX_00376,CUST_062,2024-10-09,171.69,"Product_4, Product_5, Product_6, Product_11, Product_15"
+TX_00377,CUST_173,2024-08-10,466.75,Product_3
+TX_00378,CUST_013,2024-12-12,369.33,"Product_15, Product_24, Product_11, Product_25"
+TX_00379,CUST_157,2024-09-29,248.91,"Product_1, Product_8, Product_15, Product_27, Product_20"
+TX_00380,CUST_008,2024-01-04,261.68,"Product_22, Product_13, Product_19, Product_28, Product_24"
+TX_00381,CUST_052,2024-05-22,275.6,"Product_2, Product_6, Product_3, Product_26"
+TX_00382,CUST_170,2024-09-16,390.23,"Product_20, Product_27, Product_7, Product_15, Product_19"
+TX_00383,CUST_105,2024-11-20,439.97,"Product_23, Product_2, Product_30"
+TX_00384,CUST_047,2024-03-27,275.85,"Product_20, Product_18, Product_27, Product_5, Product_13"
+TX_00385,CUST_035,2024-04-16,244.7,"Product_6, Product_30, Product_20"
+TX_00386,CUST_116,2024-05-23,205.43,"Product_9, Product_5"
+TX_00387,CUST_087,2024-01-20,464.67,"Product_24, Product_14, Product_9, Product_20, Product_21"
+TX_00388,CUST_010,2024-03-26,117.83,Product_26
+TX_00389,CUST_030,2024-07-22,257.32,"Product_26, Product_15, Product_6, Product_1"
+TX_00390,CUST_052,2024-11-20,93.37,"Product_20, Product_21, Product_27"
+TX_00391,CUST_059,2024-02-23,258.32,"Product_17, Product_18, Product_24, Product_4"
+TX_00392,CUST_001,2024-02-27,51.1,"Product_15, Product_17, Product_26, Product_3, Product_11"
+TX_00393,CUST_070,2024-08-03,467.23,"Product_3, Product_20"
+TX_00394,CUST_018,2024-09-10,108.41,Product_19
+TX_00395,CUST_028,2024-06-05,95.58,"Product_25, Product_24"
+TX_00396,CUST_056,2024-02-01,80.61,"Product_3, Product_24, Product_5, Product_18"
+TX_00397,CUST_061,2024-09-24,201.13,Product_18
+TX_00398,CUST_174,2024-01-22,300.04,"Product_11, Product_8, Product_18, Product_12, Product_24"
+TX_00399,CUST_166,2024-05-29,109.82,"Product_18, Product_14, Product_6"
+TX_00400,CUST_132,2024-12-08,51.11,"Product_7, Product_23, Product_10, Product_14"
+TX_00401,CUST_129,2024-09-25,62.65,"Product_15, Product_9, Product_12"
+TX_00402,CUST_081,2024-05-29,117.85,"Product_19, Product_15, Product_13, Product_24, Product_26"
+TX_00403,CUST_087,2024-04-08,375.47,"Product_18, Product_10, Product_20, Product_14, Product_27"
+TX_00404,CUST_173,2024-08-14,360.92,Product_24
+TX_00405,CUST_070,2024-01-02,441.32,Product_26
+TX_00406,CUST_160,2024-06-14,260.62,"Product_3, Product_13, Product_28, Product_19, Product_6"
+TX_00407,CUST_152,2024-04-11,190.6,"Product_25, Product_18, Product_3"
+TX_00408,CUST_188,2024-12-20,363.24,"Product_9, Product_15, Product_24, Product_6, Product_2"
+TX_00409,CUST_115,2024-01-13,281.88,"Product_29, Product_26, Product_17, Product_30, Product_23"
+TX_00410,CUST_161,2024-12-20,70.07,"Product_9, Product_7, Product_2"
+TX_00411,CUST_156,2024-05-30,170.34,"Product_30, Product_19, Product_27"
+TX_00412,CUST_038,2024-03-23,152.24,"Product_24, Product_13, Product_1"
+TX_00413,CUST_017,2024-04-20,397.69,"Product_22, Product_18, Product_8, Product_24"
+TX_00414,CUST_149,2024-01-27,443.49,"Product_18, Product_15, Product_27"
+TX_00415,CUST_066,2024-01-05,423.28,"Product_23, Product_12"
+TX_00416,CUST_131,2024-08-05,270.35,"Product_15, Product_2, Product_18"
+TX_00417,CUST_142,2024-02-22,236.45,"Product_6, Product_21"
+TX_00418,CUST_199,2024-07-31,35.79,"Product_15, Product_14, Product_2, Product_9, Product_26"
+TX_00419,CUST_049,2024-05-14,334.21,"Product_23, Product_1, Product_19, Product_27, Product_15"
+TX_00420,CUST_054,2024-07-27,339.87,"Product_11, Product_18, Product_1, Product_8, Product_3"
+TX_00421,CUST_031,2024-01-21,326.3,"Product_12, Product_27, Product_3"
+TX_00422,CUST_007,2024-02-20,296.11,Product_6
+TX_00423,CUST_102,2024-04-16,145.28,"Product_13, Product_26, Product_30, Product_10, Product_4"
+TX_00424,CUST_190,2024-04-25,31.61,"Product_28, Product_10"
+TX_00425,CUST_133,2024-08-02,446.59,"Product_7, Product_9"
+TX_00426,CUST_168,2024-07-11,232.96,"Product_24, Product_26, Product_27"
+TX_00427,CUST_152,2024-02-09,371.24,"Product_25, Product_1, Product_24, Product_3, Product_15"
+TX_00428,CUST_113,2024-02-14,145.02,"Product_21, Product_10, Product_30, Product_9, Product_12"
+TX_00429,CUST_197,2024-09-15,285.72,"Product_27, Product_9, Product_14, Product_13, Product_23"
+TX_00430,CUST_181,2024-09-08,261.49,"Product_7, Product_15"
+TX_00431,CUST_027,2024-03-11,206.41,"Product_19, Product_22, Product_6, Product_9"
+TX_00432,CUST_161,2024-04-25,236.54,"Product_13, Product_26, Product_23, Product_19"
+TX_00433,CUST_050,2024-09-17,140.03,"Product_15, Product_19, Product_1, Product_10, Product_13"
+TX_00434,CUST_042,2024-11-15,320.69,"Product_19, Product_11, Product_17, Product_21, Product_24"
+TX_00435,CUST_134,2024-06-29,332.84,"Product_6, Product_29, Product_22, Product_26"
+TX_00436,CUST_117,2024-01-27,137.18,Product_21
+TX_00437,CUST_142,2024-07-28,68.24,"Product_6, Product_17, Product_27"
+TX_00438,CUST_013,2024-11-16,284.19,Product_11
+TX_00439,CUST_006,2024-08-31,189.07,"Product_25, Product_3"
+TX_00440,CUST_069,2024-10-22,178.33,"Product_8, Product_5, Product_2"
+TX_00441,CUST_195,2024-09-06,346.57,Product_4
+TX_00442,CUST_048,2024-04-17,261.09,Product_3
+TX_00443,CUST_154,2024-06-27,488.28,"Product_1, Product_4"
+TX_00444,CUST_130,2024-01-15,132.62,Product_8
+TX_00445,CUST_039,2024-07-01,96.75,"Product_25, Product_3, Product_15, Product_20"
+TX_00446,CUST_136,2024-08-18,190.22,"Product_25, Product_14, Product_7, Product_26"
+TX_00447,CUST_039,2024-08-07,378.56,"Product_21, Product_17, Product_11"
+TX_00448,CUST_066,2024-10-29,328.62,"Product_29, Product_18, Product_11"
+TX_00449,CUST_039,2024-10-14,138.81,"Product_5, Product_15, Product_16, Product_19"
+TX_00450,CUST_147,2024-08-09,248.36,"Product_26, Product_10, Product_5"
+TX_00451,CUST_185,2024-12-09,233.13,"Product_15, Product_19, Product_21, Product_1"
+TX_00452,CUST_140,2024-03-23,446.62,"Product_18, Product_21, Product_26"
+TX_00453,CUST_039,2024-10-17,219.43,"Product_22, Product_19, Product_26"
+TX_00454,CUST_169,2024-03-12,435.3,"Product_30, Product_12, Product_11"
+TX_00455,CUST_117,2024-10-11,174.84,"Product_16, Product_22"
+TX_00456,CUST_147,2024-09-18,53.33,Product_17
+TX_00457,CUST_191,2024-04-10,39.08,Product_8
+TX_00458,CUST_159,2024-05-13,244.16,"Product_24, Product_29, Product_16"
+TX_00459,CUST_108,2024-09-01,233.18,Product_28
+TX_00460,CUST_164,2024-11-15,197.71,Product_20
+TX_00461,CUST_078,2024-02-07,105.13,"Product_22, Product_19"
+TX_00462,CUST_126,2024-12-06,326.05,"Product_22, Product_26, Product_16, Product_25, Product_14"
+TX_00463,CUST_075,2024-12-16,304.5,"Product_14, Product_17"
+TX_00464,CUST_094,2024-11-04,85.47,Product_1
+TX_00465,CUST_094,2024-10-09,186.66,"Product_8, Product_16, Product_4"
+TX_00466,CUST_071,2024-01-19,22.53,"Product_12, Product_3"
+TX_00467,CUST_113,2024-07-30,252.12,"Product_11, Product_6, Product_21, Product_30, Product_10"
+TX_00468,CUST_184,2024-01-09,174.54,"Product_1, Product_20, Product_9, Product_10"
+TX_00469,CUST_146,2024-11-11,426.65,"Product_18, Product_6, Product_22, Product_26"
+TX_00470,CUST_079,2024-07-23,448.87,"Product_13, Product_3"
+TX_00471,CUST_124,2024-08-18,301.12,"Product_15, Product_18, Product_12, Product_17"
+TX_00472,CUST_092,2024-11-03,466.73,Product_12
+TX_00473,CUST_031,2024-06-17,228.6,"Product_26, Product_13, Product_30, Product_3"
+TX_00474,CUST_090,2024-01-10,131.2,Product_28
+TX_00475,CUST_086,2024-08-28,41.85,Product_6
+TX_00476,CUST_062,2024-03-09,203.37,"Product_22, Product_19, Product_27"
+TX_00477,CUST_155,2024-02-09,231.03,Product_15
+TX_00478,CUST_042,2024-07-20,241.51,"Product_11, Product_4"
+TX_00479,CUST_118,2024-10-19,194.66,"Product_23, Product_26, Product_1, Product_8"
+TX_00480,CUST_168,2024-07-21,135.51,Product_24
+TX_00481,CUST_165,2024-07-21,258.28,"Product_28, Product_25, Product_15"
+TX_00482,CUST_142,2024-09-21,260.29,"Product_4, Product_6, Product_21, Product_25, Product_18"
+TX_00483,CUST_019,2024-10-04,466.76,"Product_27, Product_6"
+TX_00484,CUST_018,2024-04-02,262.05,"Product_26, Product_21, Product_11"
+TX_00485,CUST_169,2024-10-24,14.94,"Product_1, Product_18, Product_28, Product_30"
+TX_00486,CUST_077,2024-05-27,343.28,Product_11
+TX_00487,CUST_050,2024-05-01,332.17,"Product_22, Product_8, Product_23"
+TX_00488,CUST_074,2024-09-03,426.12,Product_29
+TX_00489,CUST_105,2024-09-19,104.8,"Product_27, Product_12, Product_13"
+TX_00490,CUST_010,2024-01-13,444.71,"Product_5, Product_14"
+TX_00491,CUST_063,2024-07-07,408.42,Product_3
+TX_00492,CUST_101,2024-01-15,196.99,"Product_13, Product_10"
+TX_00493,CUST_009,2024-09-02,187.47,"Product_20, Product_1, Product_27, Product_10"
+TX_00494,CUST_006,2024-07-25,445.55,"Product_2, Product_6, Product_7, Product_21, Product_19"
+TX_00495,CUST_134,2024-03-13,393.22,Product_15
+TX_00496,CUST_105,2024-05-28,214.26,"Product_21, Product_2, Product_25, Product_26"
+TX_00497,CUST_065,2024-12-09,85.19,"Product_23, Product_18, Product_17, Product_13"
+TX_00498,CUST_048,2024-05-11,144.78,"Product_20, Product_3, Product_19, Product_23, Product_10"
+TX_00499,CUST_192,2024-05-30,236.09,"Product_2, Product_9, Product_4, Product_15, Product_22"
+TX_00500,CUST_128,2024-09-23,205.92,"Product_2, Product_4"
+TX_00501,CUST_030,2024-04-24,350.17,Product_6
+TX_00502,CUST_096,2024-10-20,21.32,"Product_3, Product_21, Product_5, Product_24, Product_10"
+TX_00503,CUST_148,2024-03-29,163.73,"Product_30, Product_13"
+TX_00504,CUST_183,2024-02-28,473.69,"Product_15, Product_5, Product_21"
+TX_00505,CUST_030,2024-01-09,78.14,"Product_11, Product_25, Product_28, Product_12, Product_27"
+TX_00506,CUST_136,2024-02-19,490.61,"Product_13, Product_7"
+TX_00507,CUST_066,2024-11-04,58.75,"Product_18, Product_25, Product_16, Product_24"
+TX_00508,CUST_078,2024-07-11,74.0,Product_23
+TX_00509,CUST_113,2024-08-04,265.97,Product_4
+TX_00510,CUST_142,2024-03-08,66.43,"Product_30, Product_23, Product_21, Product_27"
+TX_00511,CUST_036,2024-08-07,441.04,"Product_7, Product_17, Product_28, Product_15, Product_19"
+TX_00512,CUST_032,2024-07-04,174.97,Product_29
+TX_00513,CUST_171,2024-07-02,259.51,Product_3
+TX_00514,CUST_083,2024-07-14,252.78,"Product_26, Product_1"
+TX_00515,CUST_015,2024-02-16,407.74,"Product_10, Product_1, Product_13, Product_12, Product_6"
+TX_00516,CUST_192,2024-01-04,187.49,"Product_24, Product_7, Product_14"
+TX_00517,CUST_086,2024-08-03,246.03,"Product_11, Product_3"
+TX_00518,CUST_081,2024-02-01,318.52,"Product_9, Product_11, Product_8"
+TX_00519,CUST_169,2024-10-27,256.24,"Product_24, Product_12, Product_27, Product_30"
+TX_00520,CUST_084,2024-01-21,173.06,"Product_10, Product_8, Product_18, Product_17, Product_2"
+TX_00521,CUST_141,2024-05-11,104.34,"Product_19, Product_6"
+TX_00522,CUST_031,2024-04-15,30.96,Product_8
+TX_00523,CUST_048,2024-10-31,478.37,"Product_19, Product_5, Product_30, Product_17"
+TX_00524,CUST_107,2024-11-20,338.4,"Product_29, Product_3"
+TX_00525,CUST_019,2024-03-11,118.78,"Product_29, Product_24, Product_7"
+TX_00526,CUST_159,2024-04-09,391.41,"Product_29, Product_1, Product_26, Product_3, Product_12"
+TX_00527,CUST_018,2024-06-01,244.95,"Product_30, Product_22"
+TX_00528,CUST_161,2024-02-01,426.34,"Product_6, Product_18, Product_13"
+TX_00529,CUST_161,2024-10-15,497.82,"Product_19, Product_29, Product_6, Product_18"
+TX_00530,CUST_052,2024-08-01,200.14,"Product_29, Product_13, Product_17, Product_15, Product_26"
+TX_00531,CUST_112,2024-11-20,424.71,"Product_19, Product_4, Product_18, Product_23"
+TX_00532,CUST_133,2024-05-17,459.34,"Product_7, Product_6, Product_18, Product_11"
+TX_00533,CUST_157,2024-03-25,49.22,Product_15
+TX_00534,CUST_133,2024-07-11,39.62,"Product_4, Product_16"
+TX_00535,CUST_066,2024-12-16,123.6,"Product_28, Product_11, Product_10"
+TX_00536,CUST_063,2024-10-22,83.06,"Product_27, Product_18"
+TX_00537,CUST_179,2024-09-21,372.85,"Product_19, Product_4, Product_26"
+TX_00538,CUST_181,2024-07-15,241.79,Product_13
+TX_00539,CUST_138,2024-10-28,311.6,"Product_29, Product_23, Product_13"
+TX_00540,CUST_137,2024-05-12,194.64,"Product_28, Product_23"
+TX_00541,CUST_033,2024-05-10,305.89,"Product_11, Product_27, Product_19, Product_2"
+TX_00542,CUST_037,2024-02-18,437.35,"Product_3, Product_2, Product_15"
+TX_00543,CUST_087,2024-05-16,142.92,"Product_11, Product_13"
+TX_00544,CUST_140,2024-04-24,328.79,"Product_30, Product_18, Product_5, Product_12"
+TX_00545,CUST_065,2024-04-12,480.76,"Product_25, Product_20, Product_6, Product_5, Product_8"
+TX_00546,CUST_191,2024-04-16,250.62,Product_13
+TX_00547,CUST_018,2024-05-26,14.07,"Product_18, Product_21, Product_1, Product_22"
+TX_00548,CUST_082,2024-01-25,177.19,"Product_9, Product_11, Product_6, Product_25, Product_13"
+TX_00549,CUST_161,2024-09-11,308.26,"Product_16, Product_14, Product_26"
+TX_00550,CUST_015,2024-08-13,480.76,Product_18
+TX_00551,CUST_049,2024-03-14,206.37,"Product_6, Product_18, Product_22, Product_26"
+TX_00552,CUST_051,2024-10-25,457.49,"Product_19, Product_3"
+TX_00553,CUST_159,2024-01-16,392.92,Product_14
+TX_00554,CUST_199,2024-07-16,289.47,"Product_30, Product_16"
+TX_00555,CUST_066,2024-08-14,49.25,"Product_21, Product_4"
+TX_00556,CUST_170,2024-10-06,36.31,"Product_22, Product_17, Product_9"
+TX_00557,CUST_158,2024-11-28,321.14,"Product_1, Product_23, Product_2, Product_11"
+TX_00558,CUST_165,2024-01-11,275.4,"Product_28, Product_4, Product_16"
+TX_00559,CUST_019,2024-06-02,292.12,"Product_25, Product_27, Product_26, Product_15, Product_4"
+TX_00560,CUST_004,2024-12-21,470.91,"Product_27, Product_29, Product_25, Product_2"
+TX_00561,CUST_036,2024-02-05,179.24,Product_3
+TX_00562,CUST_021,2024-11-15,60.48,"Product_9, Product_11"
+TX_00563,CUST_181,2024-06-10,493.78,Product_27
+TX_00564,CUST_009,2024-02-03,45.43,"Product_4, Product_28, Product_24, Product_18"
+TX_00565,CUST_113,2024-12-11,298.44,"Product_27, Product_13, Product_6, Product_19"
+TX_00566,CUST_163,2024-07-15,337.01,"Product_16, Product_21, Product_2"
+TX_00567,CUST_104,2024-09-13,310.92,"Product_8, Product_14, Product_30, Product_15, Product_9"
+TX_00568,CUST_120,2024-08-05,340.27,"Product_30, Product_28, Product_10, Product_8, Product_9"
+TX_00569,CUST_131,2024-11-09,80.88,Product_20
+TX_00570,CUST_044,2024-02-10,275.96,"Product_25, Product_29, Product_5, Product_8"
+TX_00571,CUST_129,2024-11-04,97.57,"Product_10, Product_19"
+TX_00572,CUST_131,2024-01-31,79.01,"Product_5, Product_30, Product_6"
+TX_00573,CUST_081,2024-04-16,280.85,Product_27
+TX_00574,CUST_076,2024-05-16,441.92,"Product_20, Product_22"
+TX_00575,CUST_119,2024-08-10,69.08,"Product_26, Product_13, Product_1, Product_17"
+TX_00576,CUST_079,2024-06-25,92.52,"Product_17, Product_29"
+TX_00577,CUST_030,2024-10-13,290.32,"Product_5, Product_26"
+TX_00578,CUST_067,2024-04-25,375.8,"Product_1, Product_20, Product_27, Product_2"
+TX_00579,CUST_103,2024-04-19,488.17,"Product_19, Product_16, Product_29, Product_26"
+TX_00580,CUST_030,2024-08-19,124.22,"Product_20, Product_23, Product_29, Product_24, Product_16"
+TX_00581,CUST_015,2024-11-30,488.06,"Product_13, Product_6, Product_30"
+TX_00582,CUST_091,2024-12-20,54.71,"Product_14, Product_21, Product_27, Product_19, Product_12"
+TX_00583,CUST_024,2024-03-05,211.86,"Product_27, Product_19"
+TX_00584,CUST_159,2024-08-12,50.63,"Product_17, Product_12, Product_5, Product_22"
+TX_00585,CUST_054,2024-08-06,317.12,"Product_9, Product_18"
+TX_00586,CUST_183,2024-03-17,184.63,"Product_16, Product_27, Product_7, Product_20, Product_10"
+TX_00587,CUST_125,2024-04-22,68.1,"Product_8, Product_25, Product_5, Product_23"
+TX_00588,CUST_138,2024-07-19,125.12,"Product_7, Product_13, Product_25, Product_21"
+TX_00589,CUST_046,2024-02-15,105.37,Product_3
+TX_00590,CUST_185,2024-01-31,362.63,"Product_21, Product_16, Product_1"
+TX_00591,CUST_141,2024-10-06,237.49,"Product_13, Product_24, Product_28"
+TX_00592,CUST_062,2024-07-31,169.83,"Product_8, Product_12, Product_25, Product_5, Product_7"
+TX_00593,CUST_086,2024-03-19,188.39,"Product_14, Product_30, Product_25, Product_4, Product_26"
+TX_00594,CUST_158,2024-03-06,282.38,"Product_3, Product_1, Product_10, Product_16, Product_14"
+TX_00595,CUST_177,2024-09-20,96.54,"Product_3, Product_8"
+TX_00596,CUST_074,2024-02-19,260.42,Product_11
+TX_00597,CUST_069,2024-06-17,391.49,"Product_24, Product_23, Product_3"
+TX_00598,CUST_158,2024-07-08,99.44,Product_16
+TX_00599,CUST_099,2024-08-26,294.02,"Product_30, Product_21, Product_20, Product_29, Product_27"
+TX_00600,CUST_065,2024-06-20,280.36,"Product_20, Product_16, Product_10"
+TX_00601,CUST_027,2024-02-29,216.94,"Product_5, Product_1, Product_24, Product_14"
+TX_00602,CUST_089,2024-04-01,180.04,"Product_19, Product_12"
+TX_00603,CUST_145,2024-04-01,392.55,"Product_16, Product_29"
+TX_00604,CUST_040,2024-11-18,86.53,"Product_5, Product_17"
+TX_00605,CUST_148,2024-04-27,415.01,"Product_21, Product_28, Product_29"
+TX_00606,CUST_177,2024-01-21,347.26,"Product_21, Product_1, Product_11, Product_26"
+TX_00607,CUST_157,2024-11-30,264.08,"Product_26, Product_3, Product_15"
+TX_00608,CUST_172,2024-11-24,200.93,"Product_29, Product_4, Product_6, Product_28, Product_30"
+TX_00609,CUST_088,2024-04-21,10.55,"Product_13, Product_16"
+TX_00610,CUST_047,2024-06-06,213.75,"Product_22, Product_12, Product_11, Product_7, Product_15"
+TX_00611,CUST_152,2024-07-12,411.44,"Product_28, Product_8, Product_9"
+TX_00612,CUST_161,2024-03-27,497.8,"Product_21, Product_26, Product_30, Product_18, Product_11"
+TX_00613,CUST_152,2024-06-30,242.03,"Product_19, Product_11"
+TX_00614,CUST_126,2024-09-06,27.02,"Product_28, Product_1, Product_27, Product_15, Product_18"
+TX_00615,CUST_183,2024-12-21,211.65,Product_6
+TX_00616,CUST_055,2024-02-10,179.53,Product_26
+TX_00617,CUST_128,2024-08-01,199.2,"Product_7, Product_24, Product_25"
+TX_00618,CUST_172,2024-08-08,80.17,"Product_12, Product_22, Product_11"
+TX_00619,CUST_138,2024-10-30,48.27,"Product_17, Product_19, Product_27, Product_13, Product_21"
+TX_00620,CUST_200,2024-02-19,110.09,"Product_5, Product_2, Product_15, Product_18"
+TX_00621,CUST_123,2024-08-01,300.7,"Product_20, Product_30"
+TX_00622,CUST_179,2024-04-09,140.08,"Product_11, Product_29, Product_16, Product_19, Product_20"
+TX_00623,CUST_137,2024-10-05,301.03,"Product_8, Product_16, Product_4"
+TX_00624,CUST_069,2024-11-10,413.04,"Product_20, Product_26"
+TX_00625,CUST_017,2024-11-07,226.61,"Product_24, Product_29"
+TX_00626,CUST_065,2024-01-24,86.6,"Product_28, Product_23, Product_19"
+TX_00627,CUST_074,2024-05-10,340.14,"Product_8, Product_9, Product_29, Product_12"
+TX_00628,CUST_168,2024-08-05,239.93,Product_16
+TX_00629,CUST_075,2024-10-20,473.0,"Product_7, Product_30, Product_18"
+TX_00630,CUST_057,2024-10-19,215.83,"Product_21, Product_2, Product_1, Product_14, Product_5"
+TX_00631,CUST_177,2024-03-30,35.26,"Product_20, Product_27"
+TX_00632,CUST_107,2024-12-23,110.41,Product_10
+TX_00633,CUST_194,2024-06-30,429.26,Product_20
+TX_00634,CUST_153,2024-07-22,412.42,"Product_5, Product_25, Product_26"
+TX_00635,CUST_001,2024-06-09,380.38,"Product_30, Product_6, Product_5, Product_12"
+TX_00636,CUST_074,2024-03-05,364.81,"Product_29, Product_30, Product_20, Product_12, Product_5"
+TX_00637,CUST_011,2024-12-05,394.86,"Product_9, Product_11, Product_23"
+TX_00638,CUST_038,2024-04-25,423.17,"Product_29, Product_11"
+TX_00639,CUST_191,2024-07-19,83.08,"Product_29, Product_18, Product_25"
+TX_00640,CUST_088,2024-06-24,24.23,Product_21
+TX_00641,CUST_040,2024-03-29,277.83,"Product_8, Product_2, Product_15, Product_1"
+TX_00642,CUST_077,2024-08-19,93.82,"Product_17, Product_27"
+TX_00643,CUST_047,2024-09-24,266.8,"Product_25, Product_1, Product_12, Product_10, Product_4"
+TX_00644,CUST_050,2024-01-02,474.47,"Product_7, Product_16, Product_4, Product_23, Product_12"
+TX_00645,CUST_048,2024-04-21,455.8,"Product_12, Product_5"
+TX_00646,CUST_116,2024-05-29,99.95,"Product_4, Product_17, Product_23, Product_25, Product_8"
+TX_00647,CUST_048,2024-09-11,83.05,"Product_22, Product_23"
+TX_00648,CUST_140,2024-03-11,53.95,Product_9
+TX_00649,CUST_132,2024-05-18,133.49,"Product_16, Product_5, Product_13, Product_19, Product_22"
+TX_00650,CUST_140,2024-11-23,18.62,"Product_18, Product_16, Product_23, Product_27, Product_4"
+TX_00651,CUST_191,2024-10-16,77.18,"Product_18, Product_17, Product_14"
+TX_00652,CUST_112,2024-12-01,192.0,"Product_9, Product_21, Product_5, Product_12"
+TX_00653,CUST_179,2024-10-01,321.62,"Product_20, Product_13, Product_29, Product_23"
+TX_00654,CUST_045,2024-09-23,290.91,"Product_18, Product_15, Product_1, Product_27, Product_28"
+TX_00655,CUST_185,2024-10-21,88.04,"Product_2, Product_21, Product_28, Product_29, Product_20"
+TX_00656,CUST_128,2024-05-05,332.93,"Product_29, Product_6, Product_10, Product_8, Product_1"
+TX_00657,CUST_017,2024-11-10,101.48,"Product_20, Product_28, Product_22, Product_15"
+TX_00658,CUST_023,2024-03-27,117.34,Product_12
+TX_00659,CUST_068,2024-12-13,203.48,Product_15
+TX_00660,CUST_054,2024-03-01,30.99,"Product_10, Product_24, Product_4, Product_2, Product_13"
+TX_00661,CUST_049,2024-03-11,461.06,"Product_26, Product_6, Product_13"
+TX_00662,CUST_009,2024-11-29,152.54,"Product_3, Product_23, Product_14, Product_15, Product_9"
+TX_00663,CUST_114,2024-10-11,472.32,"Product_16, Product_3"
+TX_00664,CUST_054,2024-12-21,308.07,"Product_26, Product_2, Product_20, Product_3, Product_6"
+TX_00665,CUST_078,2024-05-19,193.39,"Product_18, Product_4, Product_24"
+TX_00666,CUST_111,2024-03-16,50.82,Product_13
+TX_00667,CUST_171,2024-03-27,388.84,"Product_16, Product_2, Product_9"
+TX_00668,CUST_006,2024-02-09,324.43,Product_20
+TX_00669,CUST_086,2024-10-17,104.58,"Product_10, Product_13, Product_22, Product_5, Product_12"
+TX_00670,CUST_088,2024-06-08,113.63,"Product_13, Product_3, Product_22, Product_18, Product_15"
+TX_00671,CUST_068,2024-06-24,283.49,"Product_1, Product_4, Product_20, Product_19"
+TX_00672,CUST_139,2024-07-27,483.53,"Product_25, Product_26, Product_17"
+TX_00673,CUST_106,2024-03-11,256.93,"Product_3, Product_4, Product_18, Product_9, Product_7"
+TX_00674,CUST_175,2024-05-21,404.44,Product_11
+TX_00675,CUST_122,2024-09-03,394.64,"Product_20, Product_11"
+TX_00676,CUST_131,2024-06-06,470.05,"Product_17, Product_27, Product_10, Product_15, Product_29"
+TX_00677,CUST_079,2024-01-09,86.37,"Product_27, Product_4"
+TX_00678,CUST_063,2024-09-17,468.87,"Product_18, Product_24, Product_19, Product_8"
+TX_00679,CUST_025,2024-02-13,52.74,Product_29
+TX_00680,CUST_190,2024-05-08,305.76,"Product_3, Product_2, Product_18, Product_6, Product_12"
+TX_00681,CUST_186,2024-02-17,325.7,"Product_27, Product_6"
+TX_00682,CUST_140,2024-06-17,91.87,"Product_11, Product_26"
+TX_00683,CUST_042,2024-05-26,11.97,"Product_16, Product_17"
+TX_00684,CUST_104,2024-01-29,193.03,"Product_7, Product_22, Product_2"
+TX_00685,CUST_149,2024-02-02,282.84,Product_4
+TX_00686,CUST_021,2024-03-19,42.82,"Product_9, Product_5, Product_14"
+TX_00687,CUST_021,2024-12-26,105.14,Product_7
+TX_00688,CUST_018,2024-11-23,178.19,Product_22
+TX_00689,CUST_059,2024-01-13,445.8,Product_24
+TX_00690,CUST_057,2024-03-07,397.13,"Product_16, Product_14"
+TX_00691,CUST_053,2024-04-23,355.67,"Product_19, Product_25, Product_29"
+TX_00692,CUST_191,2024-08-19,100.17,"Product_9, Product_3"
+TX_00693,CUST_091,2024-03-01,308.31,"Product_29, Product_28, Product_11, Product_23, Product_26"
+TX_00694,CUST_130,2024-08-14,289.52,Product_6
+TX_00695,CUST_070,2024-12-03,342.22,Product_30
+TX_00696,CUST_014,2024-12-16,107.63,"Product_13, Product_30, Product_8, Product_21"
+TX_00697,CUST_123,2024-09-03,158.07,"Product_21, Product_14, Product_30, Product_5"
+TX_00698,CUST_110,2024-11-17,68.43,"Product_15, Product_4"
+TX_00699,CUST_058,2024-09-11,123.96,"Product_23, Product_21"
+TX_00700,CUST_127,2024-04-16,39.7,Product_11
+TX_00701,CUST_186,2024-03-19,279.88,Product_5
+TX_00702,CUST_148,2024-02-23,149.73,"Product_22, Product_5"
+TX_00703,CUST_186,2024-05-02,343.04,Product_22
+TX_00704,CUST_018,2024-02-23,180.2,Product_24
+TX_00705,CUST_087,2024-10-29,156.97,"Product_6, Product_28, Product_5"
+TX_00706,CUST_044,2024-03-23,26.31,Product_3
+TX_00707,CUST_145,2024-12-24,191.18,"Product_12, Product_11, Product_9, Product_3"
+TX_00708,CUST_136,2024-05-25,17.17,"Product_9, Product_10, Product_2, Product_11"
+TX_00709,CUST_101,2024-12-30,22.0,Product_19
+TX_00710,CUST_182,2024-07-23,12.55,"Product_9, Product_11, Product_26, Product_14, Product_6"
+TX_00711,CUST_016,2024-07-16,482.76,"Product_2, Product_4, Product_11, Product_14, Product_3"
+TX_00712,CUST_170,2024-08-11,276.94,"Product_9, Product_26, Product_19"
+TX_00713,CUST_061,2024-04-14,161.73,Product_20
+TX_00714,CUST_034,2024-11-02,186.83,Product_23
+TX_00715,CUST_092,2024-08-28,131.46,Product_7
+TX_00716,CUST_133,2024-02-02,353.36,"Product_23, Product_9, Product_4, Product_24, Product_2"
+TX_00717,CUST_055,2024-10-18,243.68,"Product_18, Product_22, Product_19, Product_12"
+TX_00718,CUST_138,2024-06-07,42.92,"Product_20, Product_29"
+TX_00719,CUST_087,2024-12-27,455.69,Product_3
+TX_00720,CUST_070,2024-04-17,387.35,Product_25
+TX_00721,CUST_143,2024-11-23,169.19,"Product_24, Product_22, Product_2, Product_13"
+TX_00722,CUST_024,2024-12-07,394.52,"Product_15, Product_8, Product_11, Product_29, Product_1"
+TX_00723,CUST_086,2024-08-01,393.28,"Product_30, Product_2, Product_12, Product_6"
+TX_00724,CUST_030,2024-07-10,315.07,"Product_16, Product_4, Product_1, Product_9, Product_12"
+TX_00725,CUST_164,2024-03-15,65.33,Product_8
+TX_00726,CUST_058,2024-04-10,283.42,Product_15
+TX_00727,CUST_108,2024-03-08,458.86,"Product_20, Product_9"
+TX_00728,CUST_170,2024-11-22,22.33,"Product_9, Product_10"
+TX_00729,CUST_011,2024-02-10,235.03,"Product_16, Product_3, Product_21, Product_7, Product_8"
+TX_00730,CUST_149,2024-09-12,338.28,"Product_21, Product_24, Product_7, Product_4"
+TX_00731,CUST_006,2024-12-10,254.95,Product_21
+TX_00732,CUST_090,2024-03-29,298.17,"Product_9, Product_7, Product_30, Product_16, Product_3"
+TX_00733,CUST_028,2024-09-10,463.98,"Product_9, Product_23, Product_24, Product_26"
+TX_00734,CUST_108,2024-11-02,309.9,"Product_13, Product_21, Product_22"
+TX_00735,CUST_174,2024-06-21,281.68,"Product_10, Product_2, Product_28, Product_29"
+TX_00736,CUST_182,2024-02-13,36.76,"Product_13, Product_28, Product_1"
+TX_00737,CUST_005,2024-11-01,203.84,Product_22
+TX_00738,CUST_061,2024-10-20,31.24,Product_8
+TX_00739,CUST_081,2024-04-16,183.18,"Product_23, Product_2, Product_25, Product_5"
+TX_00740,CUST_080,2024-02-14,20.77,"Product_24, Product_7, Product_5, Product_28"
+TX_00741,CUST_061,2024-10-18,263.52,Product_6
+TX_00742,CUST_063,2024-06-19,51.14,"Product_5, Product_9, Product_3"
+TX_00743,CUST_018,2024-05-04,292.63,"Product_19, Product_24, Product_28, Product_4, Product_7"
+TX_00744,CUST_182,2024-01-19,316.98,Product_5
+TX_00745,CUST_188,2024-08-10,438.64,"Product_8, Product_18, Product_23, Product_11, Product_3"
+TX_00746,CUST_059,2024-06-21,293.06,"Product_3, Product_18, Product_29"
+TX_00747,CUST_019,2024-02-28,30.87,"Product_8, Product_12, Product_21, Product_5"
+TX_00748,CUST_189,2024-03-14,453.87,"Product_5, Product_26"
+TX_00749,CUST_140,2024-05-16,300.31,Product_29
+TX_00750,CUST_101,2024-02-16,346.9,"Product_11, Product_4, Product_23, Product_6"
+TX_00751,CUST_145,2024-11-21,374.45,Product_8
+TX_00752,CUST_049,2024-04-21,49.23,"Product_20, Product_4, Product_3, Product_21, Product_18"
+TX_00753,CUST_199,2024-07-07,314.66,"Product_17, Product_6, Product_8, Product_21"
+TX_00754,CUST_145,2024-07-19,479.56,"Product_16, Product_13, Product_18, Product_20"
+TX_00755,CUST_071,2024-08-15,402.95,"Product_23, Product_11, Product_1, Product_30, Product_13"
+TX_00756,CUST_160,2024-03-28,60.91,"Product_18, Product_4, Product_22, Product_3, Product_8"
+TX_00757,CUST_021,2024-08-28,66.77,"Product_21, Product_25, Product_13, Product_17"
+TX_00758,CUST_048,2024-09-10,246.92,"Product_9, Product_10"
+TX_00759,CUST_086,2024-11-05,287.63,"Product_3, Product_30"
+TX_00760,CUST_141,2024-03-29,42.23,"Product_6, Product_26"
+TX_00761,CUST_042,2024-03-01,233.39,"Product_12, Product_11"
+TX_00762,CUST_179,2024-07-30,172.06,"Product_7, Product_28"
+TX_00763,CUST_148,2024-11-14,309.49,"Product_2, Product_21, Product_4, Product_27, Product_10"
+TX_00764,CUST_167,2024-03-31,206.3,"Product_25, Product_9, Product_4, Product_11, Product_8"
+TX_00765,CUST_176,2024-11-28,82.83,"Product_13, Product_14"
+TX_00766,CUST_016,2024-03-18,227.46,"Product_11, Product_14"
+TX_00767,CUST_195,2024-12-29,267.72,"Product_21, Product_28, Product_29, Product_20"
+TX_00768,CUST_094,2024-05-20,331.82,Product_13
+TX_00769,CUST_061,2024-02-16,168.84,"Product_13, Product_5, Product_21"
+TX_00770,CUST_054,2024-10-09,470.39,"Product_19, Product_26, Product_17, Product_15"
+TX_00771,CUST_076,2024-01-07,361.79,"Product_9, Product_26"
+TX_00772,CUST_056,2024-04-17,86.0,"Product_11, Product_20, Product_28, Product_8, Product_13"
+TX_00773,CUST_081,2024-01-13,67.73,"Product_25, Product_8"
+TX_00774,CUST_189,2024-06-26,196.0,"Product_26, Product_15, Product_27, Product_16"
+TX_00775,CUST_083,2024-12-25,42.09,"Product_1, Product_13, Product_28, Product_15"
+TX_00776,CUST_140,2024-04-24,413.7,Product_29
+TX_00777,CUST_140,2024-10-23,492.9,"Product_14, Product_25"
+TX_00778,CUST_143,2024-03-10,199.38,"Product_29, Product_23, Product_7, Product_5, Product_25"
+TX_00779,CUST_016,2024-05-15,471.2,"Product_21, Product_25, Product_20, Product_29"
+TX_00780,CUST_005,2024-08-22,466.04,"Product_22, Product_13, Product_6, Product_28, Product_8"
+TX_00781,CUST_025,2024-08-19,387.56,Product_3
+TX_00782,CUST_149,2024-07-12,229.66,"Product_21, Product_6, Product_24"
+TX_00783,CUST_010,2024-07-20,66.96,"Product_12, Product_25"
+TX_00784,CUST_150,2024-10-18,132.31,"Product_20, Product_7"
+TX_00785,CUST_198,2024-07-20,187.06,"Product_4, Product_1, Product_18, Product_15, Product_8"
+TX_00786,CUST_130,2024-02-13,72.29,Product_17
+TX_00787,CUST_017,2024-07-21,354.25,"Product_28, Product_12, Product_14, Product_15, Product_4"
+TX_00788,CUST_141,2024-12-01,129.21,Product_15
+TX_00789,CUST_195,2024-05-01,178.08,"Product_29, Product_9, Product_13, Product_14"
+TX_00790,CUST_124,2024-06-30,309.88,"Product_2, Product_4, Product_21, Product_3"
+TX_00791,CUST_187,2024-12-01,373.98,"Product_26, Product_21, Product_30, Product_23"
+TX_00792,CUST_123,2024-05-08,459.6,Product_2
+TX_00793,CUST_048,2024-06-18,409.55,"Product_22, Product_24, Product_26"
+TX_00794,CUST_169,2024-09-25,431.79,"Product_21, Product_28, Product_30, Product_26"
+TX_00795,CUST_130,2024-09-14,40.4,"Product_13, Product_27, Product_5"
+TX_00796,CUST_029,2024-03-01,267.94,"Product_17, Product_13, Product_16, Product_24, Product_14"
+TX_00797,CUST_170,2024-05-30,68.99,Product_25
+TX_00798,CUST_069,2024-09-01,263.41,"Product_26, Product_19, Product_4, Product_28, Product_5"
+TX_00799,CUST_154,2024-06-10,304.59,"Product_9, Product_23, Product_30"
+TX_00800,CUST_194,2024-07-14,369.58,"Product_14, Product_16, Product_8, Product_10"
+TX_00801,CUST_197,2024-03-20,308.76,Product_16
+TX_00802,CUST_012,2024-01-21,57.09,"Product_2, Product_20, Product_29, Product_21, Product_15"
+TX_00803,CUST_155,2024-03-23,442.01,"Product_3, Product_10"
+TX_00804,CUST_076,2024-01-19,461.15,"Product_24, Product_27, Product_9, Product_29, Product_2"
+TX_00805,CUST_140,2024-03-25,456.69,"Product_6, Product_7, Product_21, Product_18, Product_19"
+TX_00806,CUST_097,2024-04-25,168.01,"Product_18, Product_11, Product_10"
+TX_00807,CUST_124,2024-06-16,309.35,Product_12
+TX_00808,CUST_133,2024-09-30,363.52,"Product_19, Product_13"
+TX_00809,CUST_016,2024-05-19,299.02,"Product_18, Product_10"
+TX_00810,CUST_052,2024-10-22,190.32,Product_29
+TX_00811,CUST_159,2024-07-04,148.5,Product_29
+TX_00812,CUST_050,2024-12-21,373.13,"Product_1, Product_3"
+TX_00813,CUST_151,2024-08-12,58.46,"Product_10, Product_14, Product_5, Product_16"
+TX_00814,CUST_189,2024-06-02,129.74,"Product_14, Product_4, Product_20, Product_25"
+TX_00815,CUST_039,2024-01-10,16.9,"Product_26, Product_10"
+TX_00816,CUST_147,2024-05-29,126.21,"Product_16, Product_18, Product_14, Product_3"
+TX_00817,CUST_101,2024-12-30,386.13,"Product_10, Product_22, Product_16, Product_13, Product_5"
+TX_00818,CUST_155,2024-04-14,65.69,"Product_2, Product_18, Product_10, Product_30, Product_15"
+TX_00819,CUST_025,2024-08-10,15.11,"Product_16, Product_8"
+TX_00820,CUST_160,2024-12-21,422.19,"Product_12, Product_11, Product_13, Product_29, Product_9"
+TX_00821,CUST_148,2024-05-02,274.36,"Product_7, Product_15, Product_18, Product_19"
+TX_00822,CUST_181,2024-04-23,354.5,Product_19
+TX_00823,CUST_050,2024-07-04,239.62,"Product_29, Product_14, Product_5, Product_10"
+TX_00824,CUST_100,2024-07-29,192.61,"Product_8, Product_1, Product_28"
+TX_00825,CUST_100,2024-03-01,235.76,"Product_30, Product_2, Product_3, Product_7"
+TX_00826,CUST_084,2024-10-15,143.22,Product_29
+TX_00827,CUST_181,2024-07-17,381.19,"Product_29, Product_17, Product_6, Product_13, Product_23"
+TX_00828,CUST_104,2024-12-19,238.66,"Product_28, Product_20, Product_16"
+TX_00829,CUST_099,2024-08-23,338.48,"Product_13, Product_20, Product_6, Product_23, Product_22"
+TX_00830,CUST_101,2024-10-11,317.43,"Product_30, Product_5, Product_20, Product_17, Product_26"
+TX_00831,CUST_090,2024-10-22,275.53,"Product_16, Product_2"
+TX_00832,CUST_067,2024-12-15,372.08,"Product_30, Product_13"
+TX_00833,CUST_065,2024-12-15,174.62,"Product_24, Product_11, Product_5"
+TX_00834,CUST_075,2024-07-17,117.23,"Product_16, Product_4, Product_11, Product_6"
+TX_00835,CUST_158,2024-12-24,381.1,"Product_8, Product_13, Product_12, Product_28"
+TX_00836,CUST_024,2024-10-26,423.38,Product_27
+TX_00837,CUST_167,2024-02-23,484.22,"Product_5, Product_6, Product_26, Product_27, Product_19"
+TX_00838,CUST_106,2024-03-24,51.88,"Product_1, Product_26"
+TX_00839,CUST_123,2024-12-14,204.78,"Product_2, Product_22, Product_25, Product_7"
+TX_00840,CUST_135,2024-09-22,207.68,"Product_25, Product_30, Product_21"
+TX_00841,CUST_194,2024-12-26,388.35,"Product_20, Product_18"
+TX_00842,CUST_078,2024-09-17,409.8,Product_5
+TX_00843,CUST_173,2024-06-15,24.04,"Product_4, Product_18"
+TX_00844,CUST_041,2024-06-05,88.57,"Product_28, Product_22, Product_5, Product_21, Product_8"
+TX_00845,CUST_066,2024-05-17,345.73,"Product_13, Product_27, Product_9, Product_23, Product_3"
+TX_00846,CUST_091,2024-10-17,39.35,Product_25
+TX_00847,CUST_127,2024-02-13,14.52,"Product_9, Product_19, Product_28, Product_30, Product_18"
+TX_00848,CUST_024,2024-01-29,474.65,"Product_13, Product_29, Product_9"
+TX_00849,CUST_029,2024-08-16,102.26,"Product_11, Product_8, Product_26"
+TX_00850,CUST_145,2024-10-16,448.69,"Product_17, Product_18, Product_14, Product_29"
+TX_00851,CUST_196,2024-04-01,24.17,Product_24
+TX_00852,CUST_140,2024-08-18,127.75,"Product_20, Product_25, Product_30, Product_24"
+TX_00853,CUST_128,2024-09-20,266.17,"Product_10, Product_26, Product_28, Product_8, Product_3"
+TX_00854,CUST_094,2024-09-06,125.84,Product_10
+TX_00855,CUST_140,2024-12-07,345.0,"Product_23, Product_26, Product_10, Product_15, Product_19"
+TX_00856,CUST_167,2024-01-31,185.37,"Product_9, Product_10, Product_18"
+TX_00857,CUST_080,2024-04-14,370.91,"Product_3, Product_29"
+TX_00858,CUST_044,2024-10-31,344.83,"Product_2, Product_5"
+TX_00859,CUST_071,2024-12-10,321.18,"Product_12, Product_8, Product_20, Product_9"
+TX_00860,CUST_119,2024-10-09,301.77,"Product_22, Product_26, Product_3, Product_29, Product_12"
+TX_00861,CUST_053,2024-01-14,341.62,"Product_12, Product_15, Product_16, Product_8, Product_19"
+TX_00862,CUST_116,2024-10-12,412.58,Product_21
+TX_00863,CUST_124,2024-07-19,294.71,"Product_6, Product_22, Product_15, Product_19"
+TX_00864,CUST_113,2024-12-30,128.99,"Product_6, Product_13, Product_14, Product_11"
+TX_00865,CUST_193,2024-02-18,251.96,"Product_26, Product_20, Product_7"
+TX_00866,CUST_147,2024-08-20,403.31,Product_12
+TX_00867,CUST_059,2024-08-07,206.44,"Product_15, Product_21, Product_19"
+TX_00868,CUST_137,2024-02-06,466.85,Product_1
+TX_00869,CUST_025,2024-07-04,343.77,Product_17
+TX_00870,CUST_144,2024-06-29,148.13,"Product_14, Product_10, Product_25"
+TX_00871,CUST_115,2024-06-28,182.17,"Product_1, Product_2, Product_15, Product_17"
+TX_00872,CUST_162,2024-02-08,378.02,"Product_20, Product_3"
+TX_00873,CUST_136,2024-02-24,339.71,"Product_10, Product_27, Product_25"
+TX_00874,CUST_139,2024-12-14,100.13,"Product_18, Product_29, Product_14, Product_16"
+TX_00875,CUST_124,2024-03-30,353.46,"Product_15, Product_27, Product_30, Product_17, Product_22"
+TX_00876,CUST_175,2024-07-25,427.55,"Product_15, Product_25, Product_11"
+TX_00877,CUST_147,2024-11-21,42.26,"Product_11, Product_28"
+TX_00878,CUST_118,2024-10-07,413.99,Product_10
+TX_00879,CUST_023,2024-06-10,301.18,"Product_4, Product_2, Product_23, Product_24, Product_30"
+TX_00880,CUST_073,2024-07-01,487.81,Product_25
+TX_00881,CUST_021,2024-07-21,389.91,"Product_30, Product_5"
+TX_00882,CUST_033,2024-07-04,46.41,"Product_8, Product_7, Product_21, Product_10"
+TX_00883,CUST_173,2024-08-10,123.83,"Product_13, Product_10, Product_12, Product_28, Product_15"
+TX_00884,CUST_008,2024-09-07,13.95,"Product_20, Product_21, Product_22"
+TX_00885,CUST_066,2024-04-20,475.48,"Product_23, Product_16, Product_12, Product_21"
+TX_00886,CUST_127,2024-05-10,261.74,"Product_8, Product_12"
+TX_00887,CUST_043,2024-11-01,40.94,Product_6
+TX_00888,CUST_168,2024-04-28,349.38,"Product_29, Product_19, Product_14, Product_9"
+TX_00889,CUST_132,2024-03-06,160.28,"Product_8, Product_24, Product_7"
+TX_00890,CUST_195,2024-07-18,424.93,"Product_21, Product_3, Product_10, Product_7, Product_14"
+TX_00891,CUST_161,2024-12-02,449.01,Product_25
+TX_00892,CUST_139,2024-05-13,32.18,"Product_28, Product_5"
+TX_00893,CUST_056,2024-03-05,390.47,"Product_21, Product_6, Product_24, Product_17, Product_3"
+TX_00894,CUST_021,2024-01-16,303.8,"Product_9, Product_20, Product_19"
+TX_00895,CUST_101,2024-04-26,316.92,"Product_28, Product_17"
+TX_00896,CUST_066,2024-01-26,44.62,Product_2
+TX_00897,CUST_055,2024-03-12,48.17,"Product_24, Product_18, Product_14, Product_11"
+TX_00898,CUST_136,2024-02-04,220.57,"Product_4, Product_30, Product_24, Product_7, Product_9"
+TX_00899,CUST_031,2024-07-24,307.99,"Product_14, Product_20"
+TX_00900,CUST_128,2024-02-16,219.1,"Product_25, Product_11, Product_28, Product_4, Product_5"
+TX_00901,CUST_106,2024-06-20,192.29,"Product_19, Product_11, Product_25"
+TX_00902,CUST_026,2024-01-11,260.11,"Product_3, Product_19, Product_20, Product_11"
+TX_00903,CUST_101,2024-01-31,405.13,"Product_17, Product_27"
+TX_00904,CUST_129,2024-05-04,383.3,"Product_10, Product_6, Product_1"
+TX_00905,CUST_146,2024-08-26,240.92,"Product_18, Product_10, Product_2, Product_8"
+TX_00906,CUST_098,2024-09-13,438.34,"Product_26, Product_28, Product_17, Product_11, Product_22"
+TX_00907,CUST_183,2024-03-31,232.06,"Product_26, Product_25, Product_24, Product_16"
+TX_00908,CUST_157,2024-05-30,223.71,"Product_13, Product_9, Product_26, Product_15"
+TX_00909,CUST_064,2024-08-26,474.6,"Product_1, Product_25, Product_2, Product_28"
+TX_00910,CUST_018,2024-05-19,257.73,"Product_22, Product_23"
+TX_00911,CUST_019,2024-10-22,331.97,"Product_13, Product_7"
+TX_00912,CUST_066,2024-12-03,430.39,"Product_11, Product_13, Product_18, Product_9, Product_22"
+TX_00913,CUST_032,2024-09-28,29.9,"Product_3, Product_10, Product_5, Product_18"
+TX_00914,CUST_033,2024-11-15,270.69,"Product_17, Product_1"
+TX_00915,CUST_036,2024-11-01,454.14,"Product_17, Product_13, Product_30, Product_25, Product_14"
+TX_00916,CUST_008,2024-04-03,187.36,Product_26
+TX_00917,CUST_084,2024-01-04,104.35,Product_30
+TX_00918,CUST_083,2024-10-02,468.68,"Product_20, Product_26"
+TX_00919,CUST_051,2024-03-06,201.7,Product_16
+TX_00920,CUST_140,2024-01-09,379.06,"Product_12, Product_1"
+TX_00921,CUST_121,2024-04-14,206.36,"Product_12, Product_28, Product_27, Product_13"
+TX_00922,CUST_132,2024-09-24,398.2,"Product_2, Product_26"
+TX_00923,CUST_197,2024-12-07,229.06,"Product_1, Product_24, Product_17, Product_11, Product_19"
+TX_00924,CUST_029,2024-06-19,240.69,"Product_25, Product_17"
+TX_00925,CUST_032,2024-03-05,99.35,Product_12
+TX_00926,CUST_177,2024-06-25,63.88,"Product_25, Product_16, Product_21, Product_19"
+TX_00927,CUST_022,2024-09-04,157.86,"Product_21, Product_3, Product_7"
+TX_00928,CUST_053,2024-12-20,439.95,"Product_25, Product_13"
+TX_00929,CUST_084,2024-05-13,228.95,"Product_14, Product_17"
+TX_00930,CUST_096,2024-11-24,461.88,"Product_16, Product_30"
+TX_00931,CUST_073,2024-09-04,496.44,"Product_20, Product_24, Product_2"
+TX_00932,CUST_183,2024-10-27,320.58,"Product_3, Product_27, Product_19, Product_26"
+TX_00933,CUST_066,2024-08-04,332.19,"Product_26, Product_7, Product_29"
+TX_00934,CUST_193,2024-10-15,164.36,"Product_25, Product_2, Product_28, Product_17"
+TX_00935,CUST_009,2024-07-24,44.52,"Product_19, Product_3, Product_25, Product_9"
+TX_00936,CUST_019,2024-12-22,185.15,"Product_22, Product_11, Product_29, Product_15, Product_4"
+TX_00937,CUST_071,2024-12-28,379.11,Product_13
+TX_00938,CUST_055,2024-06-30,317.44,"Product_24, Product_26, Product_3"
+TX_00939,CUST_026,2024-07-26,105.3,"Product_14, Product_2, Product_18, Product_15, Product_20"
+TX_00940,CUST_037,2024-09-08,13.16,"Product_19, Product_15, Product_21"
+TX_00941,CUST_181,2024-12-05,448.5,"Product_12, Product_8, Product_9"
+TX_00942,CUST_186,2024-01-18,374.06,"Product_5, Product_27, Product_14"
+TX_00943,CUST_015,2024-04-30,41.28,"Product_20, Product_11, Product_3, Product_1, Product_7"
+TX_00944,CUST_051,2024-04-04,30.35,"Product_24, Product_17, Product_25"
+TX_00945,CUST_001,2024-05-02,224.48,"Product_22, Product_2"
+TX_00946,CUST_115,2024-05-31,12.95,"Product_25, Product_13, Product_5, Product_15"
+TX_00947,CUST_085,2024-08-19,299.31,Product_8
+TX_00948,CUST_157,2024-04-10,168.38,"Product_25, Product_20"
+TX_00949,CUST_112,2024-05-21,295.75,Product_15
+TX_00950,CUST_128,2024-07-30,323.52,"Product_25, Product_27, Product_19, Product_11, Product_20"
+TX_00951,CUST_064,2024-01-14,499.19,"Product_25, Product_14, Product_23, Product_22"
+TX_00952,CUST_122,2024-07-03,148.02,"Product_2, Product_20"
+TX_00953,CUST_066,2024-08-14,486.58,"Product_12, Product_6, Product_27, Product_24, Product_29"
+TX_00954,CUST_162,2024-06-20,113.4,"Product_16, Product_10, Product_8, Product_12, Product_13"
+TX_00955,CUST_023,2024-03-19,367.09,"Product_3, Product_20, Product_17, Product_10"
+TX_00956,CUST_143,2024-02-01,165.98,"Product_12, Product_22, Product_6, Product_30"
+TX_00957,CUST_138,2024-03-28,140.74,Product_7
+TX_00958,CUST_184,2024-09-09,488.74,"Product_12, Product_22, Product_20, Product_8, Product_29"
+TX_00959,CUST_165,2024-09-20,357.06,"Product_9, Product_8"
+TX_00960,CUST_086,2024-02-27,315.86,Product_26
+TX_00961,CUST_037,2024-01-07,308.53,"Product_10, Product_23, Product_25, Product_20, Product_11"
+TX_00962,CUST_049,2024-06-26,398.58,"Product_20, Product_29, Product_17, Product_15"
+TX_00963,CUST_156,2024-05-11,97.54,"Product_30, Product_2"
+TX_00964,CUST_164,2024-05-21,385.64,"Product_26, Product_20"
+TX_00965,CUST_074,2024-08-29,177.64,Product_24
+TX_00966,CUST_039,2024-08-04,433.85,"Product_23, Product_11, Product_18, Product_22"
+TX_00967,CUST_172,2024-02-16,385.41,Product_6
+TX_00968,CUST_099,2024-11-19,292.41,Product_25
+TX_00969,CUST_133,2024-04-11,116.07,"Product_26, Product_3"
+TX_00970,CUST_149,2024-09-25,419.64,"Product_8, Product_2, Product_24, Product_30, Product_27"
+TX_00971,CUST_019,2024-05-06,243.39,"Product_14, Product_26, Product_9, Product_28"
+TX_00972,CUST_144,2024-05-09,118.87,Product_25
+TX_00973,CUST_093,2024-11-11,453.06,"Product_15, Product_17, Product_9, Product_10, Product_30"
+TX_00974,CUST_103,2024-05-13,253.73,"Product_9, Product_2"
+TX_00975,CUST_043,2024-08-06,113.29,Product_1
+TX_00976,CUST_140,2024-09-05,361.03,"Product_16, Product_12, Product_10"
+TX_00977,CUST_143,2024-03-01,300.86,"Product_10, Product_16, Product_7"
+TX_00978,CUST_144,2024-04-15,72.22,"Product_11, Product_8"
+TX_00979,CUST_106,2024-11-13,234.49,Product_10
+TX_00980,CUST_186,2024-04-26,143.18,"Product_8, Product_10, Product_12, Product_1"
+TX_00981,CUST_175,2024-03-29,321.35,Product_22
+TX_00982,CUST_119,2024-11-15,396.62,"Product_19, Product_17"
+TX_00983,CUST_189,2024-02-21,171.11,"Product_8, Product_21, Product_5"
+TX_00984,CUST_141,2024-12-16,430.25,Product_17
+TX_00985,CUST_067,2024-01-24,283.98,Product_22
+TX_00986,CUST_137,2024-06-12,299.04,"Product_30, Product_1, Product_28, Product_12, Product_25"
+TX_00987,CUST_057,2024-10-20,457.31,"Product_8, Product_27, Product_12, Product_22, Product_11"
+TX_00988,CUST_021,2024-05-15,122.79,"Product_24, Product_26, Product_16, Product_3, Product_6"
+TX_00989,CUST_121,2024-09-28,355.81,"Product_28, Product_2, Product_12, Product_22"
+TX_00990,CUST_037,2024-07-23,385.91,"Product_3, Product_24, Product_16, Product_2"
+TX_00991,CUST_058,2024-05-05,328.89,Product_8
+TX_00992,CUST_177,2024-11-03,249.0,"Product_20, Product_17"
+TX_00993,CUST_172,2024-01-26,221.92,"Product_23, Product_15"
+TX_00994,CUST_133,2024-11-23,95.34,"Product_9, Product_23, Product_8, Product_2, Product_26"
+TX_00995,CUST_077,2024-06-09,173.19,"Product_4, Product_25, Product_27, Product_22, Product_7"
+TX_00996,CUST_009,2024-09-25,480.73,"Product_14, Product_21, Product_18"
+TX_00997,CUST_151,2024-02-28,458.72,"Product_8, Product_2, Product_27, Product_4, Product_26"
+TX_00998,CUST_133,2024-12-06,54.9,"Product_14, Product_8, Product_23, Product_26, Product_16"
+TX_00999,CUST_030,2024-08-08,288.81,Product_16
+TX_01000,CUST_009,2024-12-22,465.67,"Product_30, Product_5, Product_18, Product_29, Product_6"
+TX_01001,CUST_021,2024-09-15,176.61,"Product_11, Product_16"
+TX_01002,CUST_183,2024-02-07,229.68,"Product_6, Product_19, Product_20, Product_2, Product_8"
+TX_01003,CUST_074,2024-07-04,309.28,"Product_25, Product_18, Product_23, Product_20, Product_30"
+TX_01004,CUST_088,2024-12-26,318.82,"Product_4, Product_28, Product_27"
+TX_01005,CUST_020,2024-07-22,124.98,"Product_15, Product_1, Product_28, Product_19, Product_24"
+TX_01006,CUST_034,2024-07-30,146.22,"Product_19, Product_16, Product_12, Product_28"
+TX_01007,CUST_005,2024-04-20,170.37,"Product_22, Product_7, Product_6, Product_9"
+TX_01008,CUST_139,2024-04-15,39.24,"Product_12, Product_27, Product_4"
+TX_01009,CUST_074,2024-04-23,371.31,"Product_1, Product_9, Product_25"
+TX_01010,CUST_110,2024-06-15,66.64,"Product_13, Product_20, Product_18, Product_1, Product_23"
+TX_01011,CUST_063,2024-09-28,400.14,"Product_21, Product_24, Product_18, Product_22, Product_10"
+TX_01012,CUST_079,2024-07-20,263.19,"Product_25, Product_1, Product_15, Product_8"
+TX_01013,CUST_173,2024-06-21,344.3,Product_13
+TX_01014,CUST_192,2024-10-04,108.95,"Product_3, Product_18"
+TX_01015,CUST_113,2024-06-04,447.16,"Product_2, Product_25, Product_14, Product_22"
+TX_01016,CUST_157,2024-09-10,251.46,"Product_15, Product_8, Product_26, Product_28, Product_3"
+TX_01017,CUST_177,2024-02-23,28.18,"Product_6, Product_19, Product_4"
+TX_01018,CUST_123,2024-06-12,498.45,"Product_15, Product_18, Product_5, Product_11"
+TX_01019,CUST_030,2024-10-25,278.9,"Product_24, Product_12, Product_9"
+TX_01020,CUST_175,2024-05-20,101.65,"Product_24, Product_26, Product_14, Product_8"
+TX_01021,CUST_138,2024-05-19,272.54,"Product_4, Product_11"
+TX_01022,CUST_009,2024-09-21,463.66,Product_29
+TX_01023,CUST_053,2024-09-08,181.92,"Product_30, Product_20, Product_25, Product_12"
+TX_01024,CUST_141,2024-12-06,484.41,"Product_8, Product_5, Product_20, Product_7, Product_23"
+TX_01025,CUST_079,2024-02-26,395.98,Product_12
+TX_01026,CUST_085,2024-06-15,271.05,"Product_7, Product_20, Product_25, Product_22, Product_2"
+TX_01027,CUST_143,2024-01-30,12.42,"Product_23, Product_28, Product_4"
+TX_01028,CUST_002,2024-04-14,368.32,"Product_13, Product_29, Product_9, Product_12, Product_6"
+TX_01029,CUST_041,2024-06-05,357.37,"Product_6, Product_15, Product_1"
+TX_01030,CUST_007,2024-08-07,471.46,"Product_3, Product_19, Product_25, Product_4"
+TX_01031,CUST_155,2024-10-26,163.31,"Product_28, Product_4, Product_1, Product_14, Product_23"
+TX_01032,CUST_007,2024-03-04,269.74,"Product_23, Product_18"
+TX_01033,CUST_106,2024-02-10,497.14,"Product_4, Product_14, Product_1, Product_12"
+TX_01034,CUST_009,2024-07-30,476.37,"Product_7, Product_17"
+TX_01035,CUST_037,2024-12-13,236.35,"Product_23, Product_26, Product_22, Product_15"
+TX_01036,CUST_011,2024-05-26,297.52,Product_21
+TX_01037,CUST_116,2024-07-01,428.86,Product_6
+TX_01038,CUST_166,2024-09-15,103.43,Product_12
+TX_01039,CUST_187,2024-10-10,141.6,"Product_8, Product_5, Product_10"
+TX_01040,CUST_003,2024-01-06,444.87,"Product_16, Product_20, Product_10, Product_8, Product_26"
+TX_01041,CUST_170,2024-12-12,206.79,"Product_17, Product_4"
+TX_01042,CUST_083,2024-04-13,250.04,"Product_27, Product_12"
+TX_01043,CUST_111,2024-02-28,41.63,"Product_12, Product_11"
+TX_01044,CUST_016,2024-03-13,76.05,"Product_23, Product_5, Product_27, Product_4"
+TX_01045,CUST_015,2024-05-03,158.91,"Product_23, Product_13, Product_19, Product_10"
+TX_01046,CUST_126,2024-06-27,383.34,Product_29
+TX_01047,CUST_166,2024-03-20,454.71,"Product_16, Product_15"
+TX_01048,CUST_030,2024-10-08,43.51,Product_10
+TX_01049,CUST_182,2024-08-05,458.04,"Product_13, Product_27, Product_30, Product_29"
+TX_01050,CUST_038,2024-10-06,56.83,Product_11
+TX_01051,CUST_106,2024-04-14,189.07,"Product_29, Product_23, Product_10, Product_2"
+TX_01052,CUST_023,2024-12-28,414.19,Product_26
+TX_01053,CUST_033,2024-07-18,356.44,"Product_24, Product_6, Product_20, Product_12, Product_27"
+TX_01054,CUST_158,2024-09-25,257.92,"Product_25, Product_17, Product_28"
+TX_01055,CUST_032,2024-09-30,141.22,"Product_30, Product_28, Product_14, Product_13, Product_25"
+TX_01056,CUST_099,2024-09-03,187.8,"Product_8, Product_2, Product_26, Product_23, Product_28"
+TX_01057,CUST_127,2024-10-17,117.33,"Product_11, Product_25, Product_10, Product_12"
+TX_01058,CUST_117,2024-01-08,308.58,"Product_1, Product_30, Product_27, Product_11, Product_28"
+TX_01059,CUST_031,2024-10-19,249.77,"Product_29, Product_20, Product_25, Product_9, Product_1"
+TX_01060,CUST_052,2024-05-03,345.74,"Product_21, Product_12, Product_1, Product_23, Product_15"
+TX_01061,CUST_119,2024-12-16,451.07,Product_2
+TX_01062,CUST_188,2024-01-31,287.96,"Product_23, Product_5, Product_4"
+TX_01063,CUST_139,2024-08-18,409.59,Product_6
+TX_01064,CUST_170,2024-07-12,254.45,"Product_16, Product_7, Product_2"
+TX_01065,CUST_141,2024-02-07,180.54,Product_30
+TX_01066,CUST_188,2024-08-11,358.4,"Product_28, Product_13, Product_2, Product_26, Product_19"
+TX_01067,CUST_022,2024-09-03,371.37,Product_1
+TX_01068,CUST_174,2024-07-24,460.07,Product_27
+TX_01069,CUST_136,2024-04-28,65.48,"Product_7, Product_9, Product_30"
+TX_01070,CUST_036,2024-05-03,105.53,Product_17
+TX_01071,CUST_100,2024-10-27,471.95,"Product_14, Product_13, Product_16, Product_10"
+TX_01072,CUST_144,2024-02-11,391.08,"Product_17, Product_15"
+TX_01073,CUST_159,2024-05-04,237.68,"Product_4, Product_26, Product_15, Product_2, Product_8"
+TX_01074,CUST_052,2024-06-27,33.51,Product_13
+TX_01075,CUST_052,2024-08-26,468.24,"Product_28, Product_10"
+TX_01076,CUST_010,2024-04-04,211.1,Product_22
+TX_01077,CUST_048,2024-03-07,476.85,Product_14
+TX_01078,CUST_051,2024-05-28,158.13,"Product_20, Product_22, Product_15"
+TX_01079,CUST_079,2024-08-31,185.81,"Product_1, Product_14, Product_2"
+TX_01080,CUST_089,2024-10-13,225.38,"Product_29, Product_6, Product_15"
+TX_01081,CUST_022,2024-01-05,403.12,"Product_12, Product_18, Product_15"
+TX_01082,CUST_127,2024-06-06,11.1,"Product_8, Product_14, Product_15, Product_9, Product_22"
+TX_01083,CUST_055,2024-08-05,445.74,"Product_11, Product_28"
+TX_01084,CUST_165,2024-05-06,43.78,"Product_17, Product_25, Product_15"
+TX_01085,CUST_059,2024-02-07,324.9,"Product_30, Product_15, Product_29, Product_8, Product_24"
+TX_01086,CUST_082,2024-09-29,156.64,"Product_4, Product_18, Product_14, Product_5, Product_20"
+TX_01087,CUST_003,2024-11-24,229.47,"Product_22, Product_6, Product_12"
+TX_01088,CUST_094,2024-05-08,371.47,"Product_17, Product_12, Product_24"
+TX_01089,CUST_115,2024-09-08,370.21,"Product_3, Product_14, Product_29, Product_30, Product_12"
+TX_01090,CUST_174,2024-05-30,386.13,"Product_3, Product_12, Product_14, Product_4, Product_16"
+TX_01091,CUST_049,2024-07-19,478.74,"Product_29, Product_21, Product_15"
+TX_01092,CUST_055,2024-12-05,410.54,"Product_27, Product_5, Product_13, Product_22"
+TX_01093,CUST_140,2024-10-06,438.14,Product_23
+TX_01094,CUST_140,2024-06-19,282.78,"Product_7, Product_18"
+TX_01095,CUST_086,2024-06-15,66.4,"Product_4, Product_12, Product_17"
+TX_01096,CUST_086,2024-04-19,156.52,Product_8
+TX_01097,CUST_163,2024-05-26,443.61,Product_12
+TX_01098,CUST_162,2024-03-30,247.42,Product_28
+TX_01099,CUST_014,2024-11-24,478.67,"Product_4, Product_20"
+TX_01100,CUST_003,2024-06-22,466.67,Product_9
+TX_01101,CUST_114,2024-08-25,383.79,"Product_17, Product_14"
+TX_01102,CUST_148,2024-08-05,156.47,"Product_24, Product_8, Product_18, Product_15"
+TX_01103,CUST_200,2024-11-17,445.97,"Product_8, Product_11, Product_12"
+TX_01104,CUST_190,2024-05-04,143.73,"Product_6, Product_4"
+TX_01105,CUST_198,2024-06-23,447.45,"Product_15, Product_28, Product_21, Product_10"
+TX_01106,CUST_127,2024-06-09,320.85,Product_21
+TX_01107,CUST_169,2024-02-05,12.97,"Product_30, Product_22, Product_27, Product_28, Product_1"
+TX_01108,CUST_139,2024-04-30,228.29,Product_24
+TX_01109,CUST_009,2024-04-14,15.86,Product_16
+TX_01110,CUST_025,2024-12-10,445.22,Product_21
+TX_01111,CUST_048,2024-10-27,144.59,"Product_26, Product_19, Product_25, Product_29, Product_24"
+TX_01112,CUST_180,2024-04-29,280.89,"Product_15, Product_20, Product_4, Product_23"
+TX_01113,CUST_083,2024-02-13,350.74,"Product_14, Product_20, Product_15, Product_4"
+TX_01114,CUST_129,2024-02-11,84.05,"Product_1, Product_8, Product_22"
+TX_01115,CUST_124,2024-11-09,126.67,Product_17
+TX_01116,CUST_045,2024-02-07,494.49,"Product_22, Product_12, Product_6, Product_2, Product_11"
+TX_01117,CUST_148,2024-06-21,379.0,"Product_14, Product_4, Product_29"
+TX_01118,CUST_041,2024-09-16,359.82,"Product_22, Product_10, Product_14"
+TX_01119,CUST_164,2024-10-12,489.47,"Product_18, Product_16, Product_4"
+TX_01120,CUST_038,2024-03-21,70.88,"Product_20, Product_30"
+TX_01121,CUST_160,2024-05-06,196.61,Product_2
+TX_01122,CUST_106,2024-09-03,472.38,"Product_25, Product_12, Product_1, Product_3"
+TX_01123,CUST_115,2024-07-28,464.7,"Product_15, Product_26"
+TX_01124,CUST_052,2024-09-12,259.29,"Product_8, Product_10, Product_3, Product_29"
+TX_01125,CUST_021,2024-05-13,426.19,"Product_14, Product_18, Product_3"
+TX_01126,CUST_056,2024-09-25,159.63,"Product_12, Product_29, Product_4, Product_28"
+TX_01127,CUST_149,2024-02-25,342.68,"Product_20, Product_14, Product_16, Product_2"
+TX_01128,CUST_046,2024-10-27,299.34,Product_18
+TX_01129,CUST_032,2024-03-21,224.04,"Product_1, Product_24"
+TX_01130,CUST_122,2024-07-10,270.39,"Product_24, Product_4, Product_1, Product_3, Product_5"
+TX_01131,CUST_161,2024-07-27,473.62,"Product_27, Product_15, Product_9, Product_7"
+TX_01132,CUST_069,2024-10-21,97.4,"Product_9, Product_13, Product_5, Product_17"
+TX_01133,CUST_018,2024-09-12,166.08,"Product_22, Product_13, Product_8, Product_14, Product_7"
+TX_01134,CUST_148,2024-11-01,149.09,Product_21
+TX_01135,CUST_020,2024-09-17,111.3,Product_5
+TX_01136,CUST_170,2024-09-03,145.11,Product_9
+TX_01137,CUST_173,2024-03-30,190.21,Product_12
+TX_01138,CUST_156,2024-05-25,54.48,"Product_10, Product_13, Product_3"
+TX_01139,CUST_007,2024-08-01,482.97,"Product_6, Product_30, Product_18, Product_10, Product_5"
+TX_01140,CUST_151,2024-12-06,241.41,"Product_13, Product_9"
+TX_01141,CUST_007,2024-06-22,155.47,"Product_25, Product_13, Product_16, Product_11"
+TX_01142,CUST_074,2024-03-02,84.41,"Product_6, Product_17, Product_14, Product_19, Product_24"
+TX_01143,CUST_131,2024-07-21,496.54,"Product_9, Product_17, Product_14, Product_1"
+TX_01144,CUST_158,2024-12-15,386.53,"Product_6, Product_17"
+TX_01145,CUST_195,2024-11-19,442.77,"Product_30, Product_15, Product_4"
+TX_01146,CUST_054,2024-05-06,27.11,"Product_27, Product_11, Product_29"
+TX_01147,CUST_115,2024-10-24,178.5,"Product_30, Product_12, Product_2, Product_23, Product_9"
+TX_01148,CUST_073,2024-10-12,396.89,"Product_15, Product_13, Product_6"
+TX_01149,CUST_111,2024-06-03,401.54,"Product_14, Product_7, Product_8"
+TX_01150,CUST_044,2024-11-15,217.12,"Product_4, Product_21"
+TX_01151,CUST_053,2024-06-22,153.76,"Product_7, Product_1, Product_23, Product_12"
+TX_01152,CUST_186,2024-01-15,244.49,Product_29
+TX_01153,CUST_035,2024-03-09,194.12,"Product_13, Product_10, Product_29, Product_25"
+TX_01154,CUST_038,2024-12-06,454.63,Product_15
+TX_01155,CUST_079,2024-07-27,298.09,"Product_25, Product_12, Product_6"
+TX_01156,CUST_079,2024-08-15,109.57,"Product_7, Product_15, Product_14"
+TX_01157,CUST_052,2024-06-09,161.38,Product_17
+TX_01158,CUST_093,2024-11-13,481.95,"Product_12, Product_18"
+TX_01159,CUST_175,2024-06-09,285.47,"Product_12, Product_27, Product_19, Product_20, Product_4"
+TX_01160,CUST_137,2024-10-28,326.42,Product_14
+TX_01161,CUST_189,2024-09-28,26.8,"Product_25, Product_1, Product_21, Product_17, Product_12"
+TX_01162,CUST_155,2024-08-08,255.55,"Product_2, Product_25, Product_14, Product_6"
+TX_01163,CUST_030,2024-03-11,39.9,"Product_16, Product_28, Product_13, Product_30"
+TX_01164,CUST_189,2024-04-12,219.61,"Product_27, Product_1, Product_25, Product_12"
+TX_01165,CUST_150,2024-05-24,320.61,"Product_20, Product_8, Product_24"
+TX_01166,CUST_026,2024-05-14,290.54,Product_9
+TX_01167,CUST_135,2024-08-25,437.49,Product_14
+TX_01168,CUST_125,2024-11-27,476.23,"Product_14, Product_17, Product_13, Product_9, Product_16"
+TX_01169,CUST_155,2024-05-19,357.73,Product_28
+TX_01170,CUST_121,2024-06-22,431.8,"Product_16, Product_23, Product_9"
+TX_01171,CUST_093,2024-03-11,221.99,"Product_22, Product_7, Product_16, Product_2, Product_3"
+TX_01172,CUST_060,2024-06-11,354.98,"Product_29, Product_15"
+TX_01173,CUST_043,2024-02-12,276.02,Product_4
+TX_01174,CUST_115,2024-03-27,231.61,"Product_22, Product_8, Product_1, Product_21, Product_5"
+TX_01175,CUST_141,2024-04-13,322.67,Product_6
+TX_01176,CUST_102,2024-10-11,208.7,"Product_12, Product_11, Product_3, Product_30, Product_25"
+TX_01177,CUST_114,2024-12-15,353.79,"Product_11, Product_17, Product_14, Product_18"
+TX_01178,CUST_180,2024-03-02,310.64,"Product_29, Product_3"
+TX_01179,CUST_004,2024-03-28,397.09,"Product_16, Product_19, Product_4"
+TX_01180,CUST_023,2024-04-04,192.29,Product_21
+TX_01181,CUST_098,2024-08-19,168.99,Product_15
+TX_01182,CUST_042,2024-09-18,195.36,"Product_8, Product_6, Product_1, Product_17, Product_24"
+TX_01183,CUST_033,2024-08-01,207.88,"Product_17, Product_1, Product_3, Product_13, Product_30"
+TX_01184,CUST_107,2024-01-16,63.36,"Product_14, Product_27"
+TX_01185,CUST_109,2024-04-21,242.77,"Product_28, Product_22, Product_16, Product_2"
+TX_01186,CUST_036,2024-12-19,463.76,Product_11
+TX_01187,CUST_023,2024-06-18,337.77,"Product_13, Product_20, Product_3, Product_16"
+TX_01188,CUST_079,2024-06-11,29.46,"Product_12, Product_3, Product_22, Product_21"
+TX_01189,CUST_023,2024-03-01,275.44,Product_4
+TX_01190,CUST_068,2024-11-29,275.53,"Product_12, Product_6, Product_24"
+TX_01191,CUST_187,2024-01-13,63.58,Product_26
+TX_01192,CUST_106,2024-08-03,214.68,Product_20
+TX_01193,CUST_106,2024-12-24,388.22,Product_29
+TX_01194,CUST_158,2024-10-04,127.35,"Product_26, Product_18, Product_19"
+TX_01195,CUST_079,2024-08-05,321.02,"Product_24, Product_3, Product_22, Product_10"
+TX_01196,CUST_023,2024-11-19,175.54,"Product_5, Product_10, Product_28, Product_3"
+TX_01197,CUST_116,2024-03-16,43.17,"Product_26, Product_10, Product_13"
+TX_01198,CUST_187,2024-07-19,315.32,"Product_13, Product_11"
+TX_01199,CUST_044,2024-06-16,176.79,"Product_15, Product_7, Product_24, Product_20, Product_12"
+TX_01200,CUST_179,2024-11-04,430.38,Product_11
